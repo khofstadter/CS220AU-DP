@@ -26,18 +26,14 @@ Note: only link social media that you are happy for people to visit i.e. if your
 <br>
 
 ## academic pages/associations/clubs
-- [Essex Staff Page](https://www.essex.ac.uk/people/HOFST49102/krisztian-hofstadter)
-- [StoryLab Team Page](https://storylabresearch.com/team/)
+- [University of Essex](https://www.essex.ac.uk/people/HOFST49102/krisztian-hofstadter)
+- [University of York](https://www.york.ac.uk/arts-creative-technologies/people/krisztian-hofst%C3%A4dter/)
 
 <br>
 
 ## now
-- I just wrote a template for my students' [essay](di-reflection.md)
-- working as a post-grad research assistant on [EAD](http://enhancingaudiodescription.com/)
-- running the [CSS220 module] (https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) at the University of Essex
-- making my final amendments to the my doctoral thesis on [BCMI](https://bcmi.khofstadter.com/)
-- working with Cambridge based educator, visual artist, [Rhea Quien](http://rq-art.com/)
-- resuming the [Tedor Tea](http://tedortea.com/) project linking Chinese tea to local art
+- working as a post-doc on [EAD](http://enhancingaudiodescription.com/)
+- running the CSS220AU module
 
 <br>
 
@@ -45,7 +41,7 @@ Note: only link social media that you are happy for people to visit i.e. if your
 
 | date | degree | institute |
 --- | --- | ---
-|ongoing|**Ph.D.** in Music |ARU, Cambridge School of Creative Industries|
+|2022 |**Ph.D.** in Music |ARU, Cambridge School of Creative Industries|
 | ongoing | **PG Certificate** in Learning and Teaching <br> in Higher Education | ARU, School of Education and Social Care
 | 2013 | **MA** in Creative Music Technology for Media | ARU, Music and Performing Arts Department
 | 2009 | **BA** (Hons) - Creative Music Technology (1st) | ARU, Music and Performing Arts Department  |
@@ -89,7 +85,7 @@ My key responsibilities in this role included organising events, engagement with
 
 Here is an example on how to embed an image from an external website:
 
-![res](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-fraction.jpg)
+![Titl: rés (oil painting, 2005)](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-fraction.jpg)
 
 <br>
 
@@ -105,5 +101,6 @@ Here an example to embed a video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2nk_eLk1kGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 
 My full CV can be found [here](https://khofstadter.com/assets/doc/KHofstader-CV.pdf).

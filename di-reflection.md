@@ -1,6 +1,6 @@
 Quick notes:
-- you can use the outline below as your template, amend it, or change it completely. Just make sure you use the [Chicago style referencing](https://www1.essex.ac.uk/students/study-resources/tdc/documents/referencing-chicago.pdf). 
-- you should work on your drafts in your private repository. As discussed, you can add this written work to your public website as an additional page if you'd like, but makes sure you also submit a PDF version on FASER. 
+
+- you could work on your drafts in your private repository.
 
 ## Reflection on digital identities
 
@@ -15,10 +15,11 @@ This writing briefly reflects on my understanding of
 ### Digital identities
 To help identify and improve my digital identities, I explored 
 - [White et al.'s Visitor and Resident (V&R) concept](http://daveowhite.com/vandr/) which 
-  - says this and that as well as that
-  - and out of these, I found this and that interesting, and therefore researched them further and found this and that, etc. 
 
-Note: The module outline has a page on [digital identities](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/blob/main/digital-identities.md) - revise if needed. If you can, add more references i.e. not just the one to White et al. 
+  - says this and that as well as that
+  - and out of these, I found this and that interesting, and therefore researched them further and found this and that, etc. interesting in relation to existential risks (or a specific existential risk)
+
+Note: The module outline has a file on digital identities, revise if needed. That file also contains a list of resources to consider e.g. journal papers, documentary films, etc. 
 
 <br>
 
@@ -38,13 +39,14 @@ To clarify, in
 
 ### My future digital identity/identities
 To help develop my digital identities I have
+
 - revised my current use of digital identities (thought about it critically)
 - discussed it with my cohort/friends/parents
 - found this and that in journal papers/books/internet which helped me understand where and how I could improve 
 - used a [SWOT](https://duckduckgo.com/?q=swot&t=brave&ia=web) analysis (or another method that can help personal development) to understand my next steps
 - etc. 
 
-Note: Make sure you not only write about what you think needs improving, but also about what you think you are already doing well already regarding your digital identities. A good starting point is to talk about the good things you already do and then dive into what needs improving. In the next heading, you can list the aspects of your identities that need improving and then write about what ideas/methods you plan to use to improve them. 
+Note: Don't just think about what needs improving, but also about what you are already doing effectively. A good starting point is to talk about the good things you already do and then dive into what needs improving. 
 
 After identifying and analysing my current use of digital identities on the Web, I set the goal to ...
 
@@ -54,6 +56,7 @@ After identifying and analysing my current use of digital identities on the Web,
 The above V&R map and its analysis highlighted ...
 
 To address this (objective/weakness/threat, ...) I plan to 
+
 - do this and that (read this and that, join a specific forum, amend/delete/add this or that, ...)
 - by this deadline (perhaps you could write that you will set aside 1 hour every Monday to work on this objective)
 
@@ -62,18 +65,9 @@ To address this (objective/weakness/threat, ...) I plan to
 #### Objective 2 (example)
 ...
 
-By addressing these objectives my V&R map will look as follows: 
+By addressing these objectives my future V&R map will look as follows: 
 
 ![V&R map plain](assets/img/vr-map-plain.svg)
-
-<br>
-
-### Summary
-This writing reflected (or in this writing I reflected) on my understanding of
-
-1. digital identities in general and highlighted this and that
-2. my digital identities in the past/present and highlighted this and that
-3. my digital identities in the future and highlighted this and that
 
 <br>
 
