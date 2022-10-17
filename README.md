@@ -1,39 +1,34 @@
-# CS220AU Digital Portfolio (2022)
+# CS220AU Digital Portfolio Template (2022)
 ## Overview
-This GitHub repository is a template for the [CS220AU](https://github.com/khofstadter/CS220AU) assignment, your digital portfolio.
-
-It demonstrates the use of [Markdown language](https://guides.github.com/features/mastering-markdown/) for
+This GitHub repository is the template for the [CS220AU](https://github.com/khofstadter/CS220AU) assignment in 2022. It demonstrates minimalistic ideas for 
 
 - project management
-- writing articles
-- web-design with [GitHub Pages](https://pages.github.com/)
-- self-and peer-assessment
-- final dp-checklist 
+- web hosting with [GitHub Pages](https://pages.github.com/) 
+- web-design with [Markdown language](https://guides.github.com/features/mastering-markdown/) and
+- evaluation with the `assessment.md` and the `dp-checklist.md` files. 
 
-The URL of the website, using the `index.md` file can be found in the sidebar of this repository, under 'About'. It is a very simple home page that you can amend with your own information.
+The URL of the website can be found in the sidebar, under 'About'. The homepage uses the information in the `index.md` file.
 
 <br>
 
 ## Portfolio items
 The portfolio you submit needs to contain the following:
 
-1. **website** (80% of your overall mark) exploring the theme given with your specific research question.
-2. **self-and peer-assessment** (10% of your overall mark) - the marking rubric in the `assessment.md` file to help streamline your progress. Before you submit, use this file to evaluate your work and give feedback on one of your classmates' work.
-3. **portfolio overview** (10% of your overall mark) - a succinct overview of your portfolio and an outline of completed tasks (Log) and tasks to do (TODO) in the `README.md` file. Consider this `README.md` file, the one you are reading now, as a template - change it as necessary.
+1. **website** (80% of your overall mark) exploring the theme given.
+2. **self-and peer-assessment** (10% of your overall mark) using the marking rubric in the `assessment.md` file.
+3. **portfolio overview** (10% of your overall mark) providing a succinct overview of your portfolio, an outline of completed tasks (Log) and tasks to do (TODO) in this `README.md` file.
 
-After you finish these items, add your student number and your portfolio's URL in the `dp-checklist.md` file, complete a checklist in this file, download it and submit it on FASER. (Please keep this file in your repository as well after submitting.)
+After you finish these items, complete the `dp-checklist.md` file,, download it and submit it on FASER. (Please keep this file in your repository as well after submitting.)
 
-In essence, you need to submit only one files on FASER: 
+In essence, you need to submit only one files on FASER, the `dp-checklist.md`. 
 
-`dp-checklist.md`
-
-
-How to use this GitHub repository as a template for your submission, including how to submit your files on FASER is demonstrated in the workshops. If anything is unclear, ask for clarification. 
+How to use this GitHub repository as a template for your submission, including how to submit your files on FASER is demonstrated in class. If anything is unclear, ask for clarification. 
 
 <br>
 
 ## Log
 
+- 2022-10-17 amended the repository to work with to be aligned with the focus on how the module is run in 2022 (e.g. regarding the theme)
 - 2022-10-10 based on the last year's portfolio template, I created a draft for a new template
 - 2021-10-23 demonstrating VSC on computer. testing on another computer as well. testing on mac. testing GitHub Desktop. 
 - 2021-10-19 minor grammar and logic changes. 
@@ -50,9 +45,5 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## TODO
-### by week 3
-- refine
-
-## References
-- White, D., 2013, Visitors and Residents, [http://daveowhite.com/vandr/vr-mapping/](http://daveowhite.com/vandr/vr-mapping/)
-- Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
+### in week 3
+- help students fork the repo and understand its code structure, etc. 
