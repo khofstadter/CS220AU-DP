@@ -22,23 +22,23 @@ The general marking criteria can be found in the asset folder of the module's [r
 |------|---------|--------------|------------------------------------------------------------------------------------------------------------------------|---|---|
 |      |         |              |                                                                                                                        |   |   |
 |1. Website 80%|         |              |                                                                                                                        |   |   |
-|1.1 Knowledge and understanding (theoretical): level of relevant references to literature review including methodologies and the depth of their critical evaluation (e.g. references and their evaluation of digital identities, the VR method, existential risks, search methods, note-taking methods, time keeping, production tools, statistical methods, legal aspects of good web-design practices, implications linked to different versions of licensing artwork under the Creative Commons, the synthesis of scientifically valid arguments).|         |              |                                                                                                                        |   |   |
+|1.1 *Knowledge and understanding* <br><br> Level of relevant references to literature including methodologies and the depth of their critical evaluations (e.g. references and their evaluation of digital identities, the VR method, existential risks, search methods, note-taking methods, time keeping, production tools, statistical methods, legal aspects of good web-design practices, implications linked to different versions of licensing artwork under the Creative Commons, the synthesis of scientifically valid arguments).|         |              |                                                                                                                        |   |   |
 |      |         |              |                                                                                                                        |   |   |
-|1.2 Practical: level of logic (intelligence) and aesthetics (imagination) applied to producing content for the website based on the gained knowledge and understanding in a way that communicates this understanding meaningfully (e.g. with effective use of the layout, style and figures aiding a clear narrative).|         |              |                                                                                                                        |   |   |
+|1.2 *Practical*: <br><br> Level of logic (intelligence) and aesthetics (imagination) applied to producing content for the website in a way that communicates your understanding meaningfully (e.g. with effective use of the layout, style, language and figures aiding a clear narrative).|         |              |                                                                                                                        |   |   |
 |      |         |              |                                                                                                                        |   |   |
 |2. EFFORT 10%|         |              |                                                                                                                        |   |   |
-|2.1 Progress: level of time management demonstrated e.g. by regular log entries, todo lists and deadlines, all archiving the progress of mastering a new technique (e.g. audio production with a specific tool).|         |              |                                                                                                                        |   |   |
+|2.1 *Progress* <br><br> Level of time management demonstrated e.g. by regular log and TODO list entries linked to deadlines).|         |              |                                                                                                                        |   |   |
 |      |         |              |                                                                                                                        |   |   |
-|2.2 Participation: level of engagement with peers e.g. by seeking and providing constructive comments on others' work.|         |              |                                                                                                                        |   |   |
+|2.2 *Participation* <br><br> Level of engagement with peers (e.g. by seeking and providing constructive comments on others' work).|         |              |                                                                                                                        |   |   |
 |      |         |              |                                                                                                                        |   |   |
 |      |         |              |                                                                                                                        |   |   |
-|3. OVERALL 10%|         |              |                                                                                                                        |   |   |
-|3.1 The overall level of clarity of the submission. |         |              |                                                                                                                        |   |   |
+|3. OVERALL 10% |         |              |                                                                                                                        |   |   |
+|3.1 The submission's overall level of clarity. |         |              |                                                                                                                        |   |   |
 
 
 
 ## Self-assessment
-To measure my own progress, I filled in the table below using the above marking rubric. 
+To measure my own progress, I filled in the table below using the above marking rubric. <!-- move symbols -->
 
 <br>
 
@@ -57,7 +57,7 @@ To measure my own progress, I filled in the table below using the above marking 
 <br>
 
 ## Peer-assessment
-To help measure my progress, I asked another student in my group for feedback on my work. Based on his/her feedback, I filled in the table below. 
+To help measure my progress, I asked another student in my group for feedback on my work. Based on his/her feedback, I filled in the table below. <!-- move symbols -->
 
 <br>
 
