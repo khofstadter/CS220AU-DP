@@ -39,4 +39,3 @@ How to use this GitHub repository as a template for your submission, including h
 - I will continue to update my todo list accordingly 
 - i will continue to research my existential risk
 - i will also look at v&r mapping 
-- 
