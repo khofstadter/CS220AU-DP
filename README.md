@@ -37,7 +37,7 @@ How to use this GitHub repository as a template for your submission, including h
 - copy my notes into the private repositiory 
 - research exsitential crisis and how to link them 
 
-- ### in Week 6
+- ### in week 6
 - I will continue to update my todo list accordingly 
 - i will continue to research my existential risk
 - i will also look at v&r mapping 
