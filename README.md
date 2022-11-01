@@ -34,5 +34,5 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## TODO
-### in week 3
-- help students fork the repo and understand its code structure, etc. 
+### in week 6
+- start working on the content creation and the planning for the interview video that will be included in the portfolio. 
