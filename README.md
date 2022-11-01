@@ -25,9 +25,9 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
-2022/01/22- i was questioned on my progress today and i responded accordingly/ i also researched my existential risk some more
-2022/18/22- i created a github account and created two repositories private and public
-2022/11/22- i came to my first lesson and gained a basic understanding on what github is and what the outline of the module is.
+- 2022/01/22 - i was questioned on my progress today and i responded accordingly/ i also researched my existential risk some more
+- 2022/18/22 - i created a github account and created two repositories private and public
+- 2022/11/22 - i came to my first lesson and gained a basic understanding on what github is and what the outline of the module is.
 
 
 <br>
