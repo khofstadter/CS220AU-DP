@@ -31,8 +31,13 @@ How to use this GitHub repository as a template for your submission, including h
 - 2022-10-22 changed profile picture.
 - 2022-10-25 managed to edit the account type since it was not created in the right format, and watched YouTube video.
 - 2022-10-27 decided the type of content that will be included in the portfolio.
+- 2022-11-02 decided the target audience of intervieews
+- 2202-11-06 research about the topic
+- 2022-11-06 came up with a research Qeustion
 <br>
 
 ## TODO
-### in week 6
+### in week 7
 - start working on the content creation and the planning for the interview video that will be included in the portfolio. 
+- contact the intervieews to make the interviews
+- specify the questions that will be asked 
