@@ -34,6 +34,7 @@ How to use this GitHub repository as a template for your submission, including h
 - 2022-11-02 decided the target audience of intervieews
 - 2202-11-06 research about the topic
 - 2022-11-06 came up with a research Qeustion
+- 2022-11-07 found resources and studies to strengthen the argument 
 <br>
 
 ## TODO
