@@ -42,3 +42,4 @@ How to use this GitHub repository as a template for your submission, including h
 - start working on the content creation and the planning for the interview video that will be included in the portfolio. 
 - contact the intervieews to make the interviews
 - specify the questions that will be asked 
+- Check witht the department of film if I can borrow a mic
