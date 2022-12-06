@@ -31,10 +31,15 @@ How to use this GitHub repository as a template for your submission, including h
 - 2022-10-22 changed profile picture.
 - 2022-10-25 managed to edit the account type since it was not created in the right format, and watched YouTube video.
 - 2022-10-27 decided the type of content that will be included in the portfolio.
-- 2022-11-02 decided the target audience of intervieews
-- 2202-11-06 research about the topic
-- 2022-11-06 came up with a research Qeustion
-- 2022-11-07 found resources and studies to strengthen the argument 
+- 2022-11-02 decided the target audience of intervieews.
+- 2202-11-06 research about the topic.
+- 2022-11-06 came up with a research Qeustion.
+- 2022-11-07 found resources and studies to strengthen the argument.
+- 2022-11-15 finalized the survey and interview questions.
+- 2022-11-22 Interviewed students and recorded their answers.
+- 2022-11-25 Collected footage related to the introduction of the video.
+- 2022-11-28 Got a microphone.
+- 2022-12-02 
 <br>
 
 ## TODO
