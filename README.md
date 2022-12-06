@@ -39,12 +39,11 @@ How to use this GitHub repository as a template for your submission, including h
 - 2022-11-22 Interviewed students and recorded their answers.
 - 2022-11-25 Collected footage related to the introduction of the video.
 - 2022-11-28 Got a microphone.
-- 2022-12-02 
+- 2022-12-02 Started editing
 <br>
 
 ## TODO
-### in week 7
-- start working on the content creation and the planning for the interview video that will be included in the portfolio. 
-- contact the intervieews to make the interviews
-- specify the questions that will be asked 
-- Check witht the department of film if I can borrow a mic
+### in week 11
+- shooting for the Interview
+- Adding other elements to the introduction (music, voiceover...)
+- Determining the narrowed and focus topic that will included as a text below the video.
