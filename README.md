@@ -46,4 +46,4 @@ How to use this GitHub repository as a template for your submission, including h
 ### in week 11
 - shooting for the Interview
 - Adding other elements to the introduction (music, voiceover...)
-- Determining the narrowed and focus topic that will included as a text below the video.
+- Determining the narrowed and focused topic that will be included as a text below the video.
