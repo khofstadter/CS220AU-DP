@@ -40,6 +40,8 @@ How to use this GitHub repository as a template for your submission, including h
 - 2022-11-25 Collected footage related to the introduction of the video.
 - 2022-11-28 Got a microphone.
 - 2022-12-02 Started editing
+- 2022-12-11 wrote the script for the voiceover
+- 2022-12-11 continued researching about the topic
 <br>
 
 ## TODO
