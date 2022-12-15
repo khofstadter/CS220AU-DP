@@ -44,15 +44,11 @@ To measure my own progress, I filled in the table below using the above marking 
 
 |   | 40- | 40+ | 50+ | 60+ | 70+ | 
 |---|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1.1 |     |     |  o  |     |     |
+| 1.1 |     |     |     |     |     |
 | 1.2 |     |     |     |  o  |     |
-| 1.3 |     |  o  |     |     |     |
 | 2.1 |     |     |  o  |     |     |
 | 2.2 |     |     |     |  o  |     |
 | 3.1 |     |  o  |     |     |     |
-| 3.2 |     |     |  o  |     |     |
-| 4.1 |     |     |     |  o  |     |
-
 
 <br>
 
@@ -67,12 +63,9 @@ To help measure my progress, I asked another student in my group for feedback on
 |---|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 1.1 |     |     |  o  |     |     |
 | 1.2 |     |     |     |  o  |     |
-| 1.3 |     |  o  |     |     |     |
 | 2.1 |     |     |  o  |     |     |
 | 2.2 |     |     |     |  o  |     |
 | 3.1 |     |  o  |     |     |     |
-| 3.2 |     |     |  o  |     |     |
-| 4.1 |     |     |     |  o  |     |
 
 Feedback given by: <!-- add student nb -->
 
