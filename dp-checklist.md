@@ -11,18 +11,18 @@ GitHub repository URL: <!-- #todo : add the URL of your repository -->
 I made sure that
 
 - [x] my GitHub username matches my student number;
-- [ ] my repository to submit is named 'CS220AU-portfolio-2022'.
+- [x] my repository to submit is named 'CS220AU-DP-2022'.
 
 ### Website
-- [ ] I used the website to explore the theme given.
-- [ ] I provided a URL to my website in my repository's sidebar.
+- [x] I used the website to explore the theme given.
+- [x] I provided a URL to my website in my repository's sidebar.
 
 
 ### Self- and peer-assessment
 In the `assessement.md` file
 
-- [ ] I familiarised myself with the marking rubric;
-- [ ] I filled in the self-assessment table;
+- [x] I familiarised myself with the marking rubric;
+- [x] I filled in the self-assessment table;
 - [ ] I filled in the peer-assessment tables for which one student in my group provided feedback for;
 - [ ] I familiarised myself with the marking rubric and provided feedback for at least one student in my group.
 
