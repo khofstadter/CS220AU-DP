@@ -49,3 +49,6 @@ How to use this GitHub repository as a template for your submission, including h
 - shooting for the Interview
 - Adding other elements to the introduction (music, voiceover...)
 - Determining the narrowed and focused topic that will be included as a text below the video.
+![pie-chart](https://user-images.githubusercontent.com/116269585/212531820-e4449f56-af6e-42a9-ab56-63fca52343af.png)
+
+
