@@ -35,20 +35,17 @@ How to use this GitHub repository as a template for your submission, including h
 - 2202-11-06 research about the topic.
 - 2022-11-06 came up with a research Qeustion.
 - 2022-11-07 found resources and studies to strengthen the argument.
-- 2022-11-15 finalized the survey and interview questions.
+- 2022-11-15 Finalized the survey and interview questions I will be asking.
 - 2022-11-22 Interviewed students and recorded their answers.
 - 2022-11-25 Collected footage related to the introduction of the video.
 - 2022-11-28 Got a microphone.
-- 2022-12-02 Started editing
-- 2022-12-11 wrote the script for the voiceover
-- 2022-12-11 continued researching about the topic
+- 2022-12-02 Started editing the online footage.
+- 2022-12-11 wrote the script for the voiceover.
+- 2022-12-11 continued researching about the topic and collecting informtion.
+- 2022-12-16 Finalized the results of the survey
 <br>
 
 ## TODO
-### in week 11
-- shooting for the Interview
-- Adding other elements to the introduction (music, voiceover...)
-- Determining the narrowed and focused topic that will be included as a text below the video.
-
-
+### 
+- All done!
 
