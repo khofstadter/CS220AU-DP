@@ -11,8 +11,6 @@ milittary use of weapons and rockets produces high amount of emissions and green
 6% of climate change is from military which is considered a high persentage and yet media is marginalizing the effect of bombs and weapons on climate change.
 
 
-![image](https://user-images.githubusercontent.com/116269585/212742659-3544f82f-4d82-44cd-b02b-c50011d597b6.png)
-
 
 ## Embedding images
 Below you see an example of embedding an image that is found in this repository's assets/img folder: 
