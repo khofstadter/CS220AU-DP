@@ -1,8 +1,7 @@
 
-# Media coverage of the major causes of climate change and how wars affect are affecting: Case study of Palestine's war.
+# Media coverage of climate change and how wars are impact it: Case study of Palestine's war.
 
-Media coverage of climate change causes
-Media news, including social media platforms and scholarly sources, is focusing on the minor causes of climate change and ignoring the major ones such as wars, bombs and nuclear wars.
+Media news, including social media platforms and online websites, are focusing on the minor causes of climate change such as consumer behavior and marginalizing a major cause which is military weapons such as bombs, weapo and nuclear wars.
 The video below is demonstrating an interview with a 86 years old man who lived during the Palestinian war which has lasted for 75 years until today.
 The second interviewer is a chemical engineer who deep knowledge in the climate change scientific causes
 
