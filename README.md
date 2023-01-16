@@ -14,9 +14,11 @@ The URL of the website can be found in the sidebar, under 'About'. The homepage 
 ## Portfolio items
 The portfolio you submit needs to contain the following:
 
-1. **website** (80% of your overall mark) exploring the theme given.
-2. **self-and peer-assessment** (10% of your overall mark) using the marking rubric in the `assessment.md` file.
-3. **portfolio overview** (10% of your overall mark) providing a succinct overview of your portfolio, an outline of completed tasks (Log) and tasks to do (TODO) in this `README.md` file.
+1. **website** The elements used in the production of the video are listed below:
+2. - Iphone 13 "Cinematic" feature for filming the interviews, Adobe Premier Pro and iMovie for video editing, online footage from (https://www.pexels.com/)
+3.   (80% of your overall mark) exploring the theme given.
+4. **self-and peer-assessment** (10% of your overall mark) using the marking rubric in the `assessment.md` file.
+5. **portfolio overview** (10% of your overall mark) providing a succinct overview of your portfolio, an outline of completed tasks (Log) and tasks to do (TODO) in this `README.md` file.
 
 After you finish these items, complete the `dp-checklist.md` file, download it and submit it on FASER. (Please keep this file in your repository as well after submitting.) In essence, you need to submit only one file on FASER, this `dp-checklist.md`. 
 
