@@ -6,7 +6,7 @@ This GitHub repository is the template for the [CS220AU](https://github.com/khof
 - web hosting with [GitHub Pages](https://pages.github.com/) 
 - web-design with [Markdown language](https://guides.github.com/features/mastering-markdown/) and
 - evaluation with the `assessment.md` and the `dp-checklist.md` files. 
-
+- The Portfolio showcases how wars and bombs are affecting climate change while presenting a case study of Palestine's war. The portfolio shows a survey conducted in University of Essex about to represent the public opinion of the topic
 The URL of the website can be found in the sidebar, under 'About'. The homepage uses the information in the `index.md` file.
 
 <br>
