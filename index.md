@@ -1,11 +1,16 @@
 # Title
 
-Use [Markdown language](https://guides.github.com/features/mastering-markdown/) to add information to your website. 
+Media coverage of climate change causes
+Media news, including social media platforms and scholarly sources, is focusing on the minor causes of climate change and ignoring the major ones such as wars, bombs and nuclear wars.
+The video below is demonstrating an interview with a 86 years old man who lived during the Palestinian war which has lasted for 75 years until today.
+The second interviewer is a chemical engineer who have deep knowledge in the climate change scientific causes
 
-## Hyperlinks
-[This](dp-checklist.md) is an internal link to another page on your site. 
 
-And [this](https://duckduckgo.com/?q=existential+risks&t=brave&ia=web&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdzlxU3g7hUY) is an external link to web page on another website. 
+
+6% of climate change is from military which is considered a high persentage and yet media is marginalizing the effect of bombs and weapons on climate change.
+
+![image](https://user-images.githubusercontent.com/116269585/212742659-3544f82f-4d82-44cd-b02b-c50011d597b6.png)
+
 
 ## Embedding images
 Below you see an example of embedding an image that is found in this repository's assets/img folder: 
