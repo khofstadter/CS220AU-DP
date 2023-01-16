@@ -6,9 +6,9 @@ Media news, including social media platforms and scholarly sources, is focusing 
 The video below is demonstrating an interview with a 86 years old man who lived during the Palestinian war which has lasted for 75 years until today.
 The second interviewer is a chemical engineer who deep knowledge in the climate change scientific causes
 
-milittary use of weapons and rockets produces high amount of emissions and greenhouses gases. For example Israel's military uses and the advanx
+Milittary use of weapons and rockets produces high amount of emissions and greenhouses gases. For example Israel's military uses and the advanx
 
-6% of climate change is from military which is considered a high persentage and yet media is marginalizing the effect of bombs and weapons on climate change.
+6% of climate change is caused by military weapons and bombs. This is considered a high persentage, yet media is marginalizing the influence and foces on other causes related to environment. 
 
 
 
