@@ -1,5 +1,6 @@
 
-# Media coverage of climate change and how wars impact it: Case study of Palestine's war.
+# Media coverage of climate change and how wars impact it: 
+Case study of Palestine's war.
 
 Climate change is considered as one of the greatest challenges facing humanity today and its effects are noticeable worldwide. The media is providing a conflicting perspective on the issue of climate change. In the face of scientific consensus, journalists and news outlets are reporting on what might seem to be a significant cause of climate change such as consumer behavior. Media is marginalizing the influence of military forces weapons such as bombs and missiles. For example, Israel's military uses, always has air forces over in Palestine which involves huge numbers of aircraft used for conducting attacks on targets.
 
