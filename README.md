@@ -15,7 +15,7 @@ The URL of the website can be found in the sidebar, under 'About'. The homepage 
 The portfolio you submit needs to contain the following:
 
 1. **website**: The elements used in the production of the video are listed below:
-2. - Iphone 13 "Cinematic" feature for filming the interviews, Adobe Premier Pro and iMovie for video editing, online footage from https://www.pexels.com/ , voice is recorded using BOYA lavalier microphone.
+2. - Iphone 13 "Cinematic" feature for filming the interviews, Adobe Premier Pro and iMovie for video editing, online footage from https://www.pexels.com/ and https://pixabay.com/videos/ , and the voice is recorded using BOYA lavalier microphone.
 4. **self-and peer-assessment** (10% of your overall mark) using the marking rubric in the `assessment.md` file.
 5. **portfolio overview** (10% of your overall mark) providing a succinct overview of your portfolio, an outline of completed tasks (Log) and tasks to do (TODO) in this `README.md` file.
 
