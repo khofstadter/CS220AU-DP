@@ -44,6 +44,18 @@ How to use this GitHub repository as a template for your submission, including h
 - 2022-12-11 wrote the script for the voiceover.
 - 2022-12-11 continued researching about the topic and collecting informtion.
 - 2022-12-16 Finalized the results of the survey
+- 2022-12-22 Made slight changes in the interview questions
+- 2023-01-03 Interviewd the chemical engineer
+- 2023-01-06 worked on the post-production process for couple of days (cleaning the videos)
+- 2023-01-10 edited the old man's interview and added berolls to the video
+- 2023-01-11 I worked on improving the voice of the interview because the microphone did not work for many parts of the interview unfortunately. 
+- 2023-01-12 
+- 2023-01-14
+- 2023-01-15
+- 2023-01-16
+- 2023-01-17
+- 2023-01-18
+- 2023-01-19
 <br>
 
 ## TODO
