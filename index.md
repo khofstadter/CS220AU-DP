@@ -1,13 +1,15 @@
 
 # Media coverage of climate change and how wars impact it: Case study of Palestine's war.
 
-Media news, including social media platforms and online websites, are focusing on the minor causes of climate change such as consumer behavior and marginalizing a major cause which is military weapons such as bombs, weapo and nuclear wars.
-The video below is demonstrating an interview with a 86 years old man who lived during the Palestinian war which has lasted for 75 years until today.
-The second interviewer is a chemical engineer who deep knowledge in the climate change scientific causes
+Climate change is considered as one of the greatest challenges facing humanity today and its effects are noticeable worldwide. The media is providing a conflicting perspective on the issue of climate change. In the face of scientific consensus, journalists and news outlets are reporting on what might seem to be a significant cause of climate change such as consumer behavior. Media is marginalizing the influence of military forces weapons such as bombs and missiles. For example, Israel's military uses, always has air forces over in Palestine which involves huge numbers of aircraft used for conducting attacks on targets.
 
-Milittary use of weapons and rockets produces high amount of emissions and greenhouses gases. For example Israel's military uses and the advanx
+The video below is demonstrating an interview with an 86 year old man who lived during the Palestine-Israel war which has lasted for 75 years until today (source). He witnessed different stages of Palestine-Israel war which ended with the foundation of Israel. The second interviewer is a chemical engineer who provided insightful knowledge about the climate change scientific causes and her perspective about media coverage. Moreover, she is an advocate for environment and sustainability.  
 
-6% of climate change is caused by military weapons and bombs (Inventory of U.S. Greenhouse Gas Emissions and Sinks, 2022). This is considered a high persentage, yet media is marginalizing the influence and foces on other causes related to environment. 
+Video
+
+
+
+Environmental awareness is certainly an important topic. But while we do have to care about our environment, surely those advocating an environmental approach can also be accused of being more concerned with saving the planet than saving lives. We must ask ourselves why are we bombarded with having an environmental-friendly life when missiles and nuclear bombs are killing people and destroying the Ozone layer that protects our planet? I believe there are reasons that make a lot of sense.
 
 
 
