@@ -1,5 +1,5 @@
 
-# Media coverage of climate change and how wars are impact it: Case study of Palestine's war.
+# Media coverage of climate change and how wars impact it: Case study of Palestine's war.
 
 Media news, including social media platforms and online websites, are focusing on the minor causes of climate change such as consumer behavior and marginalizing a major cause which is military weapons such as bombs, weapo and nuclear wars.
 The video below is demonstrating an interview with a 86 years old man who lived during the Palestinian war which has lasted for 75 years until today.
@@ -7,7 +7,7 @@ The second interviewer is a chemical engineer who deep knowledge in the climate 
 
 Milittary use of weapons and rockets produces high amount of emissions and greenhouses gases. For example Israel's military uses and the advanx
 
-6% of climate change is caused by military weapons and bombs. This is considered a high persentage, yet media is marginalizing the influence and foces on other causes related to environment. 
+6% of climate change is caused by military weapons and bombs (Inventory of U.S. Greenhouse Gas Emissions and Sinks, 2022). This is considered a high persentage, yet media is marginalizing the influence and foces on other causes related to environment. 
 
 
 
