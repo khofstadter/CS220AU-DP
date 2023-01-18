@@ -12,14 +12,12 @@ The video below is demonstrating an interview with an 86 year old man who lived 
 
 
 
-The case study interview conducted with, Ibrahim Al-Muqbel, provided a first-hand experience of living with bombs on top of his head exploding neighbor cities. The consumer himself was at a life-threatening event. Ibrahim recalled how he was forced to flee his home along with his family. He spoke of the emotional trauma he experienced as he was forced to leave behind his home, possessions and community.
-
- According to Petras (2006), US is backing Israel unconditionally by providing financial and advanced weapon equipment support to bomb Palestine and Gaza strike resulting in massive number of people being killed and high amount of fossil fuel burnt. On contrast, the United States Environmental Protection Agency (EPA) is working towards reducing emissions globally!
-People in Palestine today are still being bombed, the Sheikh Jarrah incident...
-
+The war in Palestine has led to a displacement of many local residents, who are forced to flee their homes and communities as a result of the attacks. In the video a case study interview was conducted with Ibrahim Al-Muqbel, providing a first-hand experience of living under attacks of bombs and weapons. Where the consumer himself was at a life-threatening event. He spoke of the emotional trauma he experienced as he was forced to leave behind his home, possessions and community.
 
 In Palestine, the effects of climate change are exacerbated by the ongoing war and the use of military weapons. The use of heavy artillery, tanks, and other military equipment has caused widespread destruction of the natural environment, including the destruction of forests, wetlands, and other vital ecosystems. This has led to a loss of biodiversity and a reduction in the ability of the land to absorb carbon and other greenhouse gases, contributing to the overall warming of the planet. 
 
+According to Petras (2006), US is backing Israel unconditionally by providing financial and advanced weapon equipment support to bomb Palestine and Gaza strike resulting in massive number of people being killed and high amount of fossil fuel burnt. On contrast, the United States Environmental Protection Agency (EPA) is working towards reducing emissions globally!
+People in Palestine today are still being bombed, the Sheikh Jarrah incident...
 
 Environmental awareness is certainly an important topic. But while we do have to care about our environment, surely environment advocates can also be accused of being more concerned with saving the planet than saving lives. We must ask ourselves why we are bombarded with having an environmental-friendly life when missiles and nuclear bombs are killing people and destroying the Ozone layer that protects our planet.
 
