@@ -19,6 +19,8 @@ In Palestine, the effects of climate change are exacerbated by the ongoing war a
 
 
 According to Petras (2006), US is backing Israel unconditionally by providing financial and advanced weapon equipment support to bomb Palestine and Gaza strike resulting in massive number of people being killed and high amount of fossil fuel burnt. On contrast, the United States Environmental Protection Agency (EPA) is working towards reducing emissions globally!
+
+
 People in Palestine today are still being bombed, the Sheikh Jarrah incident refers to the forced eviction of Palestinian families from their homes in the Sheikh Jarrah neighborhood of East Jerusalem. The evictions have been met with widespread protests and international condemnation, with many accusing Israel of violating international law and committing human rights abuses. The number of people killed during the incident is () which was the result of many bombs dropped all over Palestine's cities.
 
 
