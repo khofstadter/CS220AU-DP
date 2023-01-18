@@ -29,8 +29,10 @@ Environmental awareness is certainly an important topic. But while we do have to
 
 Despite the significant impact of the war on the environment and climate in Palestine, media coverage of this issue has been relatively limited. Many mainstream media outlets have focused consumer behaviour, rather than the impact of bombs and weapons of the attcher on the environment and climate. This lack of coverage has made it difficult for the international community to fully understand the extent of the problem and to take action to address it.
 
+
 Detecting a specific reason behind the less media attention on the effect of wars on climate change can be difficult and complicated. some possible reasons might be because of the significant amount of media coverage of Wars, and as a result, less attention is given to the effects of these wars on climate change. However, political hidden agenda should be considered as a possible reason because some governments and political groups may not want to draw attention to the environmental impact of wars, as it may reflect poorly on their actions or policies. 
 
+# Survey results
 After doing interviews with 13 students in the University of Essex in the UK. I asked them the following question "Is the effect of wars on climate change being addressed enough in the media?". The results of the statistics ,as shown in the pie chart below, are 17% of them said yes and 83% of them said no. Students who said yes justified their answer by claiming that media is focusing on many causes and wars are one of of causes mentioned. on the other hand, students who said no, justified their answer by claiming that when they think about climate change, the first cause that pops in their mind is plastics and consumer behaviour. One of the students said that there is more focus on sustainability and environemntal-friendly lifestyle in media which made the effect of bigger causes marginalized.
 
 ![pie-chart (2)](https://user-images.githubusercontent.com/116269585/213147250-a7ff347e-67f7-4371-942e-c05efa4f2416.png)
