@@ -66,7 +66,7 @@ To help measure my progress, I asked another student in my group for feedback on
 | 1.2 |     |     |     |     |  o  |
 | 2.1 |     |     |     |     |  o  |
 | 2.2 |     |     |     |     |  o  |
-| 3.1 |     |     |     |     |  o  |
+| 3.1 |     |     |     |  o  |     |
 
 
 Feedback given by: Hannah / 2200082
