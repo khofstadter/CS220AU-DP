@@ -6,7 +6,9 @@ Climate change is a pressing global issue that has been receiving increasing med
 The video below is demonstrating an interview with an 86 year old man who lived during the Israel’s occupation of Palestine which has lasted for 75 years since 1948 until today . He witnessed different stages of the war of Israel’s occupation of Palestine which ended with the foundation of Israel and the Nakba of 1948 which means the incident of killing and displacing Palestinians from their homes. The second interviewee is a chemical engineer and an environment advocate who provided insightful knowledge about the climate change scientific causes and her perspective about media coverage of the issue.
 
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cmCp1sazOp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 
