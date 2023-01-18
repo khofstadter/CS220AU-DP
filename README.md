@@ -6,22 +6,23 @@ This GitHub repository is the template for the [CS220AU](https://github.com/khof
 - web hosting with [GitHub Pages](https://pages.github.com/) 
 - web-design with [Markdown language](https://guides.github.com/features/mastering-markdown/) and
 - evaluation with the `assessment.md` and the `dp-checklist.md` files. 
-- The Portfolio showcases how wars and bombs are affecting climate change while presenting a case study of Palestine's war. The portfolio shows a survey conducted in University of Essex about to represent the public opinion of the topic
-The URL of the website can be found in the sidebar, under 'About'. The homepage uses the information in the `index.md` file.
 
 <br>
 
 ## Portfolio items
-The portfolio you submit needs to contain the following:
+The portfolio contains:
 
-1. **website**: The elements used in the production of the video are listed below:
-2. - Iphone 13 "Cinematic" feature for filming the interviews, Adobe Premier Pro and iMovie for video editing, online footage from https://www.pexels.com/ and https://pixabay.com/videos/ , and the voice is recorded using BOYA lavalier microphone.
-4. **self-and peer-assessment** (10% of your overall mark) using the marking rubric in the `assessment.md` file.
-5. **portfolio overview** (10% of your overall mark) providing a succinct overview of your portfolio, an outline of completed tasks (Log) and tasks to do (TODO) in this `README.md` file.
+1. **website**: The tools and methods used in the production of the video are listed below:
 
-After you finish these items, complete the `dp-checklist.md` file, download it and submit it on FASER. (Please keep this file in your repository as well after submitting.) In essence, you need to submit only one file on FASER, this `dp-checklist.md`. 
+- Iphone 13 "Cinematic" feature for filming the interviews
+- Adobe Premier Pro and iMovie for video editing
+- online footage from [Pexels](https://www.pexels.com/) and [Pixabay](https://pixabay.com/videos/)
+- voice recorded using BOYA lavalier microphone
 
-How to use this GitHub repository as a template for your submission, including how to submit your files on FASER is demonstrated in class. If anything is unclear, ask for clarification. 
+The website showcases how wars and bombs are affecting climate change while presenting a case study of Palestine's war. It shows a survey conducted in University of Essex about to represent the public opinion of the topic. The URL of the website can be found in the sidebar, under 'About'. The homepage uses the information in the `index.md` file.
+
+2. **self-and peer-assessment** using the marking rubric in the `assessment.md` file.
+3. **portfolio overview** providing a succinct overview of the portfolio and an outline of completed tasks (Log) and in this `README.md` file.
 
 <br>
 
@@ -56,9 +57,3 @@ How to use this GitHub repository as a template for your submission, including h
 - 2023-01-17
 - 2023-01-18
 - 2023-01-19
-<br>
-
-## TODO
-### 
-- All done!
-
