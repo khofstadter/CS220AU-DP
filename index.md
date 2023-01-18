@@ -14,6 +14,9 @@ The video below is demonstrating an interview with an 86 year old man who lived 
 
 The war in Palestine has led to a displacement of many local residents, who are forced to flee their homes and communities as a result of the attacks. In the video a case study interview was conducted with Ibrahim Al-Muqbel, providing a first-hand experience of living under attacks of bombs and weapons. Where the consumer himself was at a life-threatening event. He spoke of the emotional trauma he experienced as he was forced to leave behind his home, possessions and community.
 
+The chemical engineer, Dana Al-Muqbel, mentioned that 6% of climate change is caused by military weapons and bombs (Inventory of U.S. Greenhouse Gas Emissions and Sinks, 2022). This is considered a high persentage, yet media is marginalizing the influence and foces on other causes related to consumer behaviour. Military activities also deplete the ozone layer by introducing nitrogen oxides (NOx) into the stratosphere — an estimated 30% by weight are released by each operational aircraft, missile or rocket launch (Sharon et al., 2008).
+
+
 
 In Palestine, the effects of climate change are exacerbated by the ongoing war and the use of military weapons. The use of heavy artillery, tanks, and other military equipment has caused widespread destruction of the natural environment, including the destruction of forests, wetlands, and other vital ecosystems. This has led to a loss of biodiversity and a reduction in the ability of the land to absorb carbon and other greenhouse gases, contributing to the overall warming of the planet. 
 
