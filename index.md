@@ -21,6 +21,7 @@ People in Palestine today are still being bombed, the Sheikh Jarrah incident...
 In Palestine, the effects of climate change are exacerbated by the ongoing war and the use of military weapons. The use of heavy artillery, tanks, and other military equipment has caused widespread destruction of the natural environment, including the destruction of forests, wetlands, and other vital ecosystems. This has led to a loss of biodiversity and a reduction in the ability of the land to absorb carbon and other greenhouse gases, contributing to the overall warming of the planet. 
 
 
+Environmental awareness is certainly an important topic. But while we do have to care about our environment, surely environment advocates can also be accused of being more concerned with saving the planet than saving lives. We must ask ourselves why we are bombarded with having an environmental-friendly life when missiles and nuclear bombs are killing people and destroying the Ozone layer that protects our planet.![image](https://user-images.githubusercontent.com/116269585/213136141-af2db138-9734-4a2e-99d9-52d9359cc81e.png)
 
 
 
