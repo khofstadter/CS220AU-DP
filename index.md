@@ -9,7 +9,7 @@ The video below is demonstrating an interview with an 86 year old man who lived 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cmCp1sazOp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-*Please enable subtitles
+*Please enable subtitles*
 
 
 The war in Palestine has led to a displacement of many local residents, who are forced to flee their homes and communities as a result of the attacks. In the video a case study interview was conducted with Ibrahim Al-Muqbel, providing a first-hand experience of living under attacks of bombs and weapons. Where the consumer himself was at a life-threatening event. He spoke of the emotional trauma he experienced as he was forced to leave behind his home, possessions and community.
