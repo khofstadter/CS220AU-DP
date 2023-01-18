@@ -9,18 +9,29 @@ The video below is demonstrating an interview with an 86 year old man who lived 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cmCp1sazOp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 *Please enable subtitles*
+
 
 
 The war in Palestine has led to a displacement of many local residents, who are forced to flee their homes and communities as a result of the attacks. In the video a case study interview was conducted with Ibrahim Al-Muqbel, providing a first-hand experience of living under attacks of bombs and weapons. Where the consumer himself was at a life-threatening event. He spoke of the emotional trauma he experienced as he was forced to leave behind his home, possessions and community.
 
+
 In Palestine, the effects of climate change are exacerbated by the ongoing war and the use of military weapons. The use of heavy artillery, tanks, and other military equipment has caused widespread destruction of the natural environment, including the destruction of forests, wetlands, and other vital ecosystems. This has led to a loss of biodiversity and a reduction in the ability of the land to absorb carbon and other greenhouse gases, contributing to the overall warming of the planet. 
+
 
 According to Petras (2006), US is backing Israel unconditionally by providing financial and advanced weapon equipment support to bomb Palestine and Gaza strike resulting in massive number of people being killed and high amount of fossil fuel burnt. On contrast, the United States Environmental Protection Agency (EPA) is working towards reducing emissions globally!
 People in Palestine today are still being bombed, the Sheikh Jarrah incident...
 
+
 Environmental awareness is certainly an important topic. But while we do have to care about our environment, surely environment advocates can also be accused of being more concerned with saving the planet than saving lives. We must ask ourselves why we are bombarded with having an environmental-friendly life when missiles and nuclear bombs are killing people and destroying the Ozone layer that protects our planet.
 
 
+Despite the significant impact of the war on the environment and climate in Palestine, media coverage of this issue has been relatively limited. Many mainstream media outlets have focused consumer behaviour, rather than the impact of bombs and weapons of the attcher on the environment and climate. This lack of coverage has made it difficult for the international community to fully understand the extent of the problem and to take action to address it.
+
+After doing interviews with 13 students in the University of Essex in the UK. I asked them the following question "Is the effect of wars on climate change being addressed enough in the media?". The results of the statistics ,as shown in the pie chart below, are 17% of them said yes and 83% of them said no. Students who said yes justified their answer by claiming that media is focusing on many causes and wars are one of of causes mentioned. on the other hand, students who said no, justified their answer by claiming that when they think about climate change, the first cause that pops in their mind is plastics and consumer behaviour. One of the students said that there is more focus on sustainability and environemntal-friendly lifestyle 
+
+
+In conclusion, the ongoing wars in Palestine and other parts of the world has had a significant impact on the environment and climate globally. The use of military weapons has caused widespread destruction of the natural environment, while displacement and loss of traditional knowledge have made it more difficult for local communities to adapt to the changing climate. However, the issue has received limited media coverage, making it difficult for the international community to fully understand the extent of the problem and to take action to address it.
 
 
