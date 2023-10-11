@@ -1,31 +1,34 @@
 # CS220AU Digital Portfolio Template
 ## Overview
-This GitHub repository is the template for the [CS220AU](https://github.com/khofstadter/CS220AU) assignment in 2022. It demonstrates minimalistic ideas for 
+This GitHub repository is the template for the [CS220AU](https://navigatingthedigitalworld.com/docs/cs220au) assignment demonstratin minimalistic ideas for 
 
-- project management
+- project management (overview, tasks and log headings)
 - web hosting with [GitHub Pages](https://pages.github.com/) 
 - web-design with [Markdown language](https://guides.github.com/features/mastering-markdown/) and
-- evaluation with the `assessment.md` and the `dp-checklist.md` files. 
+- self- and peer-review with the `assessment.md` and the `dp-checklist.md` files. 
 
-The URL of the website can be found in the sidebar, under 'About'. The homepage uses the information in the `index.md` file.
-
-<br>
+The URL of the website can be found in the sidebar, under 'About'. The homepage uses the code in the `index.md` file.
 
 ## Portfolio items
 The portfolio you submit needs to contain the following:
 
-1. **website** (80% of your overall mark) exploring the theme given.
-2. **self-and peer-assessment** (10% of your overall mark) using the marking rubric in the `assessment.md` file.
-3. **portfolio overview** (10% of your overall mark) providing a succinct overview of your portfolio, an outline of completed tasks (Log) and tasks to do (TODO) in this `README.md` file.
+1. **website** (80% of your overall mark) exploring your choosen research question (can be one of multiple pages)
+2. **self-and peer-assessment** (10% of your overall mark) using the `assessment.md` file.
+3. **portfolio overview** (10% of your overall mark) providing a succinct overview of your portfolio, an outline of tasks to do (Tasks) and completed (Log) in this `README.md` file.
 
 After you finish these items, complete the `dp-checklist.md` file, download it and submit it on FASER. (Please keep this file in your repository as well after submitting.) In essence, you need to submit only one file on FASER, this `dp-checklist.md`. 
 
-How to use this GitHub repository as a template for your submission, including how to submit your files on FASER is demonstrated in class. If anything is unclear, ask for clarification. 
+How to use this GitHub repository as a template for your assignment is demonstrated in class. If anything is unclear, ask for clarification. 
 
-<br>
+
+## Tasks
+1. fork this repository
+2. use GitHub Pages to create a website from the files 
+3. understand Markdown language and amend the `index.md` file
+4. amend this Tasks and Log heading according to your progress
 
 ## Log
-
+- 2023-10-11 repository amended for 2023
 - 2022-10-17 amended the repository to work with to be aligned with the focus on how the module is run in 2022 (e.g. regarding the theme)
 - 2022-10-10 based on the last year's portfolio template, I created a draft for a new template
 - 2021-10-23 demonstrating VSC on computer. testing on another computer as well. testing on mac. testing GitHub Desktop. 
@@ -41,7 +44,3 @@ How to use this GitHub repository as a template for your submission, including h
 - 2021-09-21 repo created. readme.md added and next steps in the todo heading defined
 
 <br>
-
-## TODO
-### in week 3
-- help students fork the repo and understand its code structure, etc. 
