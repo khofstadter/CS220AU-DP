@@ -34,7 +34,6 @@ The following rubric provides a detailed breakdown of the assessment criteria fo
 
 
 ## Self-assessment
-
 Using the marking rubric, I've assessed my own progress: <!-- move the symbols in the table below -->
 
 | Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
@@ -46,8 +45,7 @@ Using the marking rubric, I've assessed my own progress: <!-- move the symbols i
 | 3.1       |     |  o  |     |     |     |
 
 ## Peer-assessment
-
-Another student in my group provided feedback on my work as follows: 
+Another student in my group provided feedback on my work as follows: <!-- move the symbols in the table below -->
 
 | Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
 |-----------|:---:|:---:|:---:|:---:|:---:|
