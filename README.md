@@ -5,7 +5,7 @@ This GitHub repository serves as a template for the [CS220AU](https://navigating
 
 - project management using this `README.md` file, organized under the Overview, Tasks, and Log headings
 - web hosting through [GitHub Pages](https://pages.github.com/)
-- web design with the [Markdown language](https://guides.github.com/features/mastering-markdown/)
+- web design with [Markdown language](https://guides.github.com/features/mastering-markdown/)
 - self- and peer-assessment via the `assessment.md` and `dp-checklist.md` files
 
 The URL for the website can be located in the sidebar, under the 'About' section. The homepage content is sourced from the `index.md` file.
