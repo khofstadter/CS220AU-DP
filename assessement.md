@@ -3,20 +3,22 @@
 ## Marking criteria
 
 ### General
-|.    |   |        |                                                                                                                  |
-|-----|---------|--------------|------------------------------------------------------------------------------------------------------------------------|
-|40-  |Fail     |Unsatisfactory|Only some parts of the work were addressed and in general, the work appears to be rushed and demonstrates a lack of care.|
-|40+  |Third    |Satisfactory  | All parts of the work were addressed, however, there appears to be a lack of attention to detail.                      |
-|50+  |Lower 2nd|Good          |All parts of the work were addressed to a good standard demonstrating attention to detail.                              |
-|60+  |Upper 2nd|Very good     |All parts of the work were addressed to a very good standard demonstrating good attention to detail.                    |
-|70+  |1st class|Excellent     |All parts of the work were addressed to a very good standard demonstrating very good attention to detail.               |
 
+| Score | Grade | Rating | Description |
+|-------|-------|--------|-------------|
+| 40-   | Fail  | Unsatisfactory | Some parts of the work were addressed, seeming rushed and lacking care. |
+| 40+   | Third | Satisfactory   | All parts were addressed, but might lack attention to detail. |
+| 50+   | Lower 2nd | Good | All parts addressed with good attention to detail. |
+| 60+   | Upper 2nd | Very good | All parts addressed to a very good standard with good attention to detail. |
+| 70+   | 1st Class | Excellent | Outstanding attention to detail across all parts. |
 
 The general marking criteria can be found in the asset folder of the module's [repository](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/tree/main/assets/doc). 
 
 <br>
 
 ### Marking rubric
+
+The following rubric provides a detailed breakdown of the assessment criteria for each segment of your work. Use this as a guide to understand what is expected at each performance level. This will help you assess where your work currently stands and what is needed to achieve your desired grade. Additionally, when evaluating the work of your peers, refer to this rubric to provide consistent and constructive feedback.
 
 ||40-      |40+           |50+                                                                                                                     |60+|70+|
 |------|---------|--------------|------------------------------------------------------------------------------------------------------------------------|---|---|
@@ -38,36 +40,31 @@ The general marking criteria can be found in the asset folder of the module's [r
 
 
 ## Self-assessment
-To measure my own progress, I filled in the table below using the above marking rubric. <!-- move symbols -->
 
-<br>
+Using the marking rubric, I've assessed my own progress:
 
-|   | 40- | 40+ | 50+ | 60+ | 70+ | 
-|---|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1.1 |     |     |     |     |     |
-| 1.2 |     |     |     |  o  |     |
-| 2.1 |     |     |  o  |     |     |
-| 2.2 |     |     |     |  o  |     |
-| 3.1 |     |  o  |     |     |     |
+| Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
+|-----------|:---:|:---:|:---:|:---:|:---:|
+| 1.1       |     |     |     |     |     |
+| 1.2       |     |     |     |  o  |     |
+| 2.1       |     |     |  o  |     |     |
+| 2.2       |     |     |     |  o  |     |
+| 3.1       |     |  o  |     |     |     |
 
 <br>
 
 ## Peer-assessment
-To help measure my progress, I asked another student in my group for feedback on my work. Based on his/her feedback, I filled in the table below. <!-- move symbols -->
 
-<br>
+Another student in my group provided feedback on my work as follows: 
 
-### Peer-assessment
+| Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
+|-----------|:---:|:---:|:---:|:---:|:---:|
+| 1.1       |     |     |  o  |     |     |
+| 1.2       |     |     |     |  o  |     |
+| 2.1       |     |     |  o  |     |     |
+| 2.2       |     |     |     |  o  |     |
+| 3.1       |     |  o  |     |     |     |
 
-|   | 40- | 40+ | 50+ | 60+ | 70+ | 
-|---|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1.1 |     |     |  o  |     |     |
-| 1.2 |     |     |     |  o  |     |
-| 2.1 |     |     |  o  |     |     |
-| 2.2 |     |     |     |  o  |     |
-| 3.1 |     |  o  |     |     |     |
-
-Feedback given by: <!-- add student nb -->
-
+Feedback given by: <!-- add student number -->
 
 <br>

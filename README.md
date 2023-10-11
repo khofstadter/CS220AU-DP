@@ -1,31 +1,33 @@
 # CS220AU Digital Portfolio Template
+
 ## Overview
-This GitHub repository is the template for the [CS220AU](https://navigatingthedigitalworld.com/docs/cs220au) assignment demonstratin minimalistic ideas for 
+This GitHub repository serves as a template for the [CS220AU](https://navigatingthedigitalworld.com/docs/cs220au) assignment. It demonstrates minimalistic approaches to:
 
-- project management (overview, tasks and log headings)
-- web hosting with [GitHub Pages](https://pages.github.com/) 
-- web-design with [Markdown language](https://guides.github.com/features/mastering-markdown/) and
-- self- and peer-review with the `assessment.md` and the `dp-checklist.md` files. 
+- project management using this `README.md` file, organized under the Overview, Tasks, and Log headings
+- web hosting through [GitHub Pages](https://pages.github.com/)
+- web design with the [Markdown language](https://guides.github.com/features/mastering-markdown/)
+- self- and peer-assessment via the `assessment.md` and `dp-checklist.md` files
 
-The URL of the website can be found in the sidebar, under 'About'. The homepage uses the code in the `index.md` file.
+The URL for the website can be located in the sidebar, under the 'About' section. The homepage content is sourced from the `index.md` file.
 
-## Portfolio items
-The portfolio you submit needs to contain the following:
+## Portfolio Items
+Your submitted portfolio should include the following components, along with their respective contribution to your overall mark:
 
-1. **website** (80% of your overall mark) exploring your choosen research question (can be one of multiple pages)
-2. **self-and peer-assessment** (10% of your overall mark) using the `assessment.md` file.
-3. **portfolio overview** (10% of your overall mark) providing a succinct overview of your portfolio, an outline of tasks to do (Tasks) and completed (Log) in this `README.md` file.
+1. **website** (80%): explores your chosen research question across one or multiple webpages
+2. **self- and peer-assessment** (10%): utilizes the `assessment.md` file
+3. **portfolio overview** (10%): provides a succinct description of your portfolio, along with a list of tasks to do (Tasks) and those already completed (Log) in this `README.md` file
 
-After you finish these items, complete the `dp-checklist.md` file, download it and submit it on FASER. (Please keep this file in your repository as well after submitting.) In essence, you need to submit only one file on FASER, this `dp-checklist.md`. 
+Once the above items are completed, fill out the `dp-checklist.md` file, download it, and submit on FASER.
 
-How to use this GitHub repository as a template for your assignment is demonstrated in class. If anything is unclear, ask for clarification. 
-
+Instructions on using this GitHub repository as a template for your assignment will be provided in class. Seek clarification if anything is unclear.
 
 ## Tasks
 1. fork this repository
-2. use GitHub Pages to create a website from the files 
-3. understand Markdown language and amend the `index.md` file
-4. amend this Tasks and Log heading according to your progress
+2. activate GitHub Pages to generate a website from the files
+3. familiarize yourself with Markdown language and modify the `index.md` file
+4. continuously update the Tasks and Log headings to reflect your progress
+5. ... 
+
 
 ## Log
 - 2023-10-11 repository amended for 2023
