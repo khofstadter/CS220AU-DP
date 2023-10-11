@@ -10,7 +10,7 @@ This GitHub repository serves as a template for the [CS220AU](https://navigating
 
 The URL for the website can be located in the sidebar, under the 'About' section. The homepage content is sourced from the `index.md` file.
 
-## Portfolio Items
+### Portfolio Items
 Your submitted portfolio should include the following components, along with their respective contribution to your overall mark:
 
 1. **website** (80%): explores your chosen research question across one or multiple webpages
@@ -27,7 +27,6 @@ Instructions on using this GitHub repository as a template for your assignment w
 3. familiarize yourself with Markdown language and modify the `index.md` file
 4. continuously update the Tasks and Log headings to reflect your progress
 5. ... 
-
 
 ## Log
 - 2023-10-11 repository amended for 2023
