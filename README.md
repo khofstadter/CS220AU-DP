@@ -1,4 +1,4 @@
-# CS220AU Digital Portfolio Template (2022)
+# CS220AU Digital Portfolio Template
 ## Overview
 This GitHub repository is the template for the [CS220AU](https://github.com/khofstadter/CS220AU) assignment in 2022. It demonstrates minimalistic ideas for 
 
