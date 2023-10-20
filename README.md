@@ -22,8 +22,13 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 Instructions on using this GitHub repository as a template for your assignment will be provided in class. Seek clarification if anything is unclear.
 
 ## Tasks
-1. 
+1. select one research question amongst the ideas I had
+2. Get a better understanding of "existancial risk" to know if it matches the "parasocial" theme on the web 
+3. create a graphic identity for my essay
 
 ## Log
+- 2023-10-20 Created a GitHub account, and forked the portfolio template
+- 2023-10-14 Watched the third video and wrote down some themes ideas for the research question
 - 2023-10-13 Introduction class and week 2 seminar : discovery of the vr map and analysing our presence on the web (visitor or resident)
-- 2023-10-20 
+
+
