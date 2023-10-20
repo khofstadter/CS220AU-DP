@@ -9,7 +9,7 @@ GitHub repository URL: https://github.com/2300193/CS220AU-DP
 I have ensured that:
 
 - [x] my GitHub username matches my student number
-- [ ] my repository is named 'CS220AU-DP'
+- [x] my repository is named 'CS220AU-DP'
 
 ### Website
 - [ ] I addressed my research question [according to my assignment brief](https://navigatingthedigitalworld.com/docs/cs220au)
