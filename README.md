@@ -10,6 +10,7 @@
 5. ... 
 
 ## Log
+2023-11-03 Content Production: Text, Image, Audio, MOovie
 2023-10-20 
   
 2022-10-13
