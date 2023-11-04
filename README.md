@@ -28,7 +28,9 @@ Instructions on using this GitHub repository as a template for your assignment w
 4. create a graphic identity for my essay
 
 ## Log
-- 2023-11-01 did research to understand the concept of "state/government conditioning" better + created a plan for my essay
+- 2023-11-04 Watched a bit of the video Kris advised me to watch + read articles about it
+- 2023-11-03 Talked with Kris about my theme : found a new "link" with existential risks, about sensemaking and our information ecosystem
+- 2023-11-01 Did research to understand the concept of "state/government conditioning" better + created a plan for my essay
 - 2023-10-31 Got a better understanding of "existancial risk" to know if it matches the "parasocial" theme on the web + found a new research question
 - 2023-10-20 Created a GitHub account, and forked the portfolio template
 - 2023-10-14 Watched the third video and wrote down some themes ideas for the research question
