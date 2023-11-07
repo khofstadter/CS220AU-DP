@@ -28,6 +28,8 @@ Instructions on using this GitHub repository as a template for your assignment w
 4. create a graphic identity for my essay
 
 ## Log
+- 2023-11-07 Prepared the presentation of my work for this week's course (Powerpoint)
+- 2023-11-06 Created a colour palette for the graphic identity of my essay + book/articles research on the subject + references for my essay
 - 2023-11-04 Watched a bit of the video Kris advised me to watch + read articles about it
 - 2023-11-03 Talked with Kris about my theme : found a new "link" with existential risks, about sensemaking and our information ecosystem
 - 2023-11-01 Did research to understand the concept of "state/government conditioning" better + created a plan for my essay
