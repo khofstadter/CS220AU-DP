@@ -24,11 +24,20 @@
 
 
 ## Tasks
-1. fork this repository
-2. activate GitHub Pages to generate a website from the files
-3. familiarize yourself with Markdown language and modify the `index.md` file
-4. continuously update the Tasks and Log headings to reflect your progress
-5. ... 
+For the assignment
+1. Understand both **[digital identities](https://navigatingthedigitalworld.com/docs/digital-identities)** and **[extential risks](https://www.cser.ac.uk/)**
+2. Decide the theme
+3. activate GitHub Pages to generate a website from the files
+4. familiarize yourself with Markdown language and modify the `index.md` file
+5. continuously update the Tasks and Log headings to reflect your progress
+6. ...
+
+For Presentation(2023-11-10)
+1. Update the tasks to reflect progress
+2. More detailed research question ideas
+   - Understand what is digital identities and extential risks
+   - Use mapping 
+
 
 ## Log
 2023-11-03 W5
@@ -40,6 +49,18 @@
 
 2023-10-27 W4
 **[Project Management](https://navigatingthedigitalworld.com/docs/project-management)**
+Five stage of APM
+These five things are connected to next five title.
+→Goals, design, development, testing, development
+Design: Making Gantt chart or timeline table 
+
+Skimming, Scanning, and Note-taking
+1. Look for relevance in the following parts of the publication in this order:
+	1. Title and keywords (don’t continue if these are unrelated to your research).
+	2. Abstract (skim).
+	3. Introduction (skim).
+	4. Conclusion (skim).
+	5. Body of the paper (scan).
 
 2023-10-20 
   
