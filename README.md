@@ -60,7 +60,7 @@ web
 
 ## Tasks
 For the assignment
-1. Understand both **[digital identities](https://navigatingthedigitalworld.com/docs/digital-identities)** and **[extential risks](https://www.cser.ac.uk/)**
+1. Understand both **[digital identities](https://navigatingthedigitalworld.com/docs/digital-identities)** and **[extential risks](https://navigatingthedigitalworld.com/docs/existential-risks)** [example](https://www.cser.ac.uk/)
 2. Decide the theme
 3. activate GitHub Pages to generate a website from the files
 4. familiarize yourself with Markdown language and modify the `index.md` file
