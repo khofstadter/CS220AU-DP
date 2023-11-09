@@ -26,7 +26,7 @@
 
 
 ## Log: Digital identity
-**Visitor mode and Resident mode**
+**Visitor mode** and **Resident mode**
 →can reveal underlying approaches and attitudes which in turn can help us to support and engage the people work with
 Visitor mode
  - leave behind no socail trace of ourselves online
@@ -38,7 +38,7 @@ Resident mode
  - might to express their oppinion (comment) to wirte other's video and blog or have own blog and post
  - **these kind of activities linked to our identity and persona**
 
-**Personal and Institutional**
+**Personal** and **Institutional**
 Personal
  - use social media and email
  - to contact with family and friends
