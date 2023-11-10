@@ -22,12 +22,15 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 Instructions on using this GitHub repository as a template for your assignment will be provided in class. Seek clarification if anything is unclear.
 
 ## Tasks
-1. select one research question amongst the ideas I had
-2. search for interesting bibliography
+1. search for interesting bibliography
+2. Start writing a draft
 3. search for key terms
-4. create a graphic identity for my essay
+4. Create visuals (graphs of spectrum, illustrations)
+5. Write a paragraph to explain the visual identity of the project and put it in the overview
+   
 
 ## Log
+- 2023-11-10 Did a presentation of my work in front of the class 
 - 2023-11-07 Prepared the presentation of my work for this week's course (Powerpoint)
 - 2023-11-06 Created a colour palette for the graphic identity of my essay + book/articles research on the subject + references for my essay
 - 2023-11-04 Watched a bit of the video Kris advised me to watch + read articles about it
