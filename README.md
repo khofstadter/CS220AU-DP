@@ -70,6 +70,7 @@ web
 4. what kind of Extential risks
    - privacy
    - health
+   - cultural values
    - could be bad effected to environment
 5. Digital identities
    - Positioning of my(or someone's else) digital identity in each account (**use VR mapping**)
