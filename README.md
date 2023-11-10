@@ -25,7 +25,7 @@
 **[grammar checking](https://quillbot.com/grammar-check)**
 
 
-## Log: Digital identity
+## Notes: Digital identity
 **Visitor mode** and **Resident mode**
 →can reveal underlying approaches and attitudes which in turn can help us to support and engage the people work with
 Visitor mode
