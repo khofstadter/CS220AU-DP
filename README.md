@@ -63,12 +63,13 @@ For the assignment
 1. Understand both **[digital identities](https://navigatingthedigitalworld.com/docs/digital-identities)** and **[extential risks](https://navigatingthedigitalworld.com/docs/existential-risks)** [example](https://www.cser.ac.uk/)
 2. Decide the theme
    **What are the existential risks that could exist in providing (making known) our digital identities to companies(especially Tech Giants)?**
-   - How do they use data?
+   - How do they use our data?
+   - what is the purpose to correct them
    - How and what kind of data do they track?([vpnMentor](https://www.vpnmentor.com/research/whos-watching-you/#/?filter=thirdParty))
-   - Positioning of my(or someone's else) digital identity in each account (**use VR mapping**)
    - Do existential risks differ depending on positioning?
-
-3. 
+3. Extential risks
+4. Digital identities
+   - Positioning of my(or someone's else) digital identity in each account (**use VR mapping**)
 
 For Presentation(2023-11-10)
 1. Update the tasks to reflect progress
