@@ -61,7 +61,7 @@ web
 ## Tasks
 **For the assignment**
 1. Understand both **[digital identities](https://navigatingthedigitalworld.com/docs/digital-identities)** and **[extential risks](https://navigatingthedigitalworld.com/docs/existential-risks)** [example](https://www.cser.ac.uk/)
-2. Decide the theme
+2. the research question
    **What existential risks does it bring to us or to society and the environment for companies (especially tech giants) to know our digital identities?**
    - How do they use our data?
    - what is the purpose to correct them
