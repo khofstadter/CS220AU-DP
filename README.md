@@ -62,10 +62,13 @@ web
 For the assignment
 1. Understand both **[digital identities](https://navigatingthedigitalworld.com/docs/digital-identities)** and **[extential risks](https://navigatingthedigitalworld.com/docs/existential-risks)** [example](https://www.cser.ac.uk/)
 2. Decide the theme
-3. activate GitHub Pages to generate a website from the files
-4. familiarize yourself with Markdown language and modify the `index.md` file
-5. continuously update the Tasks and Log headings to reflect your progress
-6. ...
+   **What are the existential risks that could exist in providing (making known) our digital identities to companies(especially Tech Giants)?**
+   - How do they use data?
+   - How and what kind of data do they track?([vpnMentor](https://www.vpnmentor.com/research/whos-watching-you/#/?filter=thirdParty))
+   - Positioning of my(or someone's else) digital identity in each account (**use VR mapping**)
+   - Do existential risks differ depending on positioning?
+
+3. 
 
 For Presentation(2023-11-10)
 1. Update the tasks to reflect progress
