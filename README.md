@@ -85,6 +85,13 @@ For Presentation(2023-11-10)
 
 
 ## Log
+
+2023-11-8/9
+**getting used to using Github**
+- Wrote down Overview and detail of assignment
+- watched videoes about digital identities
+- update tasks
+
 2023-11-03 W5
 **[Content Production](https://navigatingthedigitalworld.com/docs/content-production)**
 - Text
