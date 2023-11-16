@@ -85,6 +85,8 @@ For Presentation(2023-11-10)
 
 
 ## Log
+2023-11-10 w6
+Presentation, read other's final assessment(check marking and feedback)
 
 2023-11-8/9
 **getting used to using Github**
@@ -114,6 +116,9 @@ Skimming, Scanning, and Note-taking
 	4. Conclusion (skim).
 	5. Body of the paper (scan).
 
-2023-10-20 
+2023-10-20 w3
+create github account and how to use it
   
-2022-10-13
+2022-10-13 w2
+- Password Management-number, sign
+- footnote: use some keyword(don't use number)
