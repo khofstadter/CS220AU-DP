@@ -85,6 +85,10 @@ For Presentation(2023-11-10)
 
 
 ## Log
+2023-11-17 w7
+Presentation, Github, 
+
+
 2023-11-10 w6
 Presentation, read other's final assessment(check marking and feedback)
 
@@ -109,7 +113,7 @@ These five things are connected to next five title.
 Design: Making Gantt chart or timeline table 
 
 Skimming, Scanning, and Note-taking
-1. Look for relevance in the following parts of the publication in this order:
+- Look for relevance in the following parts of the publication in this order:
 	1. Title and keywords (don’t continue if these are unrelated to your research).
 	2. Abstract (skim).
 	3. Introduction (skim).
