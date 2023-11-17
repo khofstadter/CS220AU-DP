@@ -87,8 +87,8 @@ For Presentation(2023-11-10)
 ## Log
 2023-11-17 w7
 Presentation, Github
-- blog: title, after that date and key words
-- edit index file
+- edit index file: title, after that date and key words, footnotes, images, hyperlink(internal and external)
+    
 
 
 2023-11-10 w6
@@ -102,10 +102,7 @@ Presentation, read other's final assessment(check marking and feedback)
 
 2023-11-03 W5
 **[Content Production](https://navigatingthedigitalworld.com/docs/content-production)**
-- Text
-- Image
-- Audio
-- Movie
+- Text, Image, Audio, Movie
 
 2023-10-27 W4
 **[Project Management](https://navigatingthedigitalworld.com/docs/project-management)**
