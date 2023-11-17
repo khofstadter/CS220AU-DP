@@ -86,7 +86,9 @@ For Presentation(2023-11-10)
 
 ## Log
 2023-11-17 w7
-Presentation, Github, 
+Presentation, Github
+- blog: title, after that date and key words
+- edit index file
 
 
 2023-11-10 w6
