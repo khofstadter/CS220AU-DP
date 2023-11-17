@@ -11,6 +11,8 @@ Below you see an example of embedding an image that is found in this repository'
 
 ![Plain VR map](assets/img/vr-map-plain.svg)
 
+![A photo of a terminator robot.](assets/img/thierry-k-Oa1saYGuRKU-unsplash.jpg)
+
 Below you see an example of embedding an image that is found in another repository:
 
 ![](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-chien.jpg). 
