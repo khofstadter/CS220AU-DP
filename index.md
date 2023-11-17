@@ -1,4 +1,4 @@
-# How can psychedelic music be linked to AI?
+# How can psychedelic music be linked to AI 2?
 Use [Markdown language](https://guides.github.com/features/mastering-markdown/) to add information to your website. 
 
 ## Hyperlinks
@@ -18,6 +18,8 @@ Below you see an example of embedding an image that is found in another reposito
 ## Embedding video players
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lfPJ7Tz4JGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FDJfRvYP7eQ?si=qCMYeaXZSs5J1-2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## More examples
 Make sure you check out the [Markdown language](https://guides.github.com/features/mastering-markdown/) guide. 
