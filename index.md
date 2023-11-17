@@ -5,7 +5,7 @@ Keywords: digital identities, existential risks, tracking data, personal social 
 
 
 ## Introduction
-[This](assessement.md) is an internal link to another page on your site. 
+[This](checklist.md) is an internal link to another page on your site. 
 
 And [this](https://navigatingthedigitalworld.com/) is an external link to web page on another website. 
 
@@ -13,6 +13,8 @@ And [this](https://navigatingthedigitalworld.com/) is an external link to web pa
 Below you see an example of embedding an image that is found in this repository's assets/img folder: 
 
 ![Plain VR map](assets/img/vr-map-plain.svg)
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 Below you see an example of embedding an image that is found in another repository:
 
