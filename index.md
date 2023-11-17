@@ -16,6 +16,10 @@ Below you see an example of embedding an image that is found in this repository'
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
+
+
+![image](https://github.com/2300260/CS220AU-DP/blob/main/assets/img/this%20is%20my%20best%20photo.jpg)
+
 Below you see an example of embedding an image that is found in another repository:
 
 ![](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-chien.jpg). 
