@@ -13,6 +13,8 @@ Below you see an example of embedding an image that is found in this repository'
 
 ![Plain VR map](assets/img/vr-map-plain.svg)
 
+![Description.](assets/img/raimond-klavins-azwRXQgJvUI-unsplash.jpg)
+
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 Below you see an example of embedding an image that is found in another repository:
