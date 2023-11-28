@@ -30,7 +30,8 @@ Instructions on using this GitHub repository as a template for your assignment w
    
 
 ## Log
-- 2023-11-15 Made an organised plan for my essay
+- 2023-11-28 Detailed my plan by seeking sources
+- 2023-11-15 Made a plan for my essay
 - 2023-11-14 Made a mindmap to find the key terms of my essay
 - 2023-11-10 Did a presentation of my work in front of the class 
 - 2023-11-07 Prepared the presentation of my work for this week's course (Powerpoint)
