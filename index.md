@@ -10,13 +10,14 @@
     - staff at Essex or elsewhere
 -->
 
-# Linking Digital Identities to Existential Risks
+# Linking Digital Identities to Existential Risks (v.01)
 <!-- the title is the research question -->
 
-<p style="background-color: #f0f0f0; color: #333;">Note: This article is not yet finished. I am <a href="https://github.com/khofstadter/CS220AU-DP/commits/main/index.md" style="color:#0066cc;">sharing the writing process</a> step-by-step as a teaching method. My primary goal with this is not just to complete an article, but to demonstrate the evolution of thoughts, edits, and improvements along the way.</p>
-
+[Krisztián Hofstädter](https://krishofstadter.com/)
 
 30 Nov 2023 <!-- to amend every time the file is updated -->
+
+<p style="background-color: #f0f0f0; color: #333;">Note: This article is not yet finished. I am <a href="https://github.com/khofstadter/CS220AU-DP/commits/main/index.md" style="color:#0066cc;">sharing the writing process</a> step-by-step as a teaching method. My primary goal with this is not just to complete an article, but to demonstrate the evolution of thoughts, edits, and improvements along the way.</p>
 
 ![An AI generated image with a room full of students learning about digital life and existential risks.](assets/img/2023-11-30-students-digital-life-existential-risks-bing-dalle.jpg)
 
@@ -48,7 +49,7 @@ My next steps to further develop this module are
 
 - to consider asking CS220AU students to submit a short video summarizing their portfolios, similarly to my Sonic Art students in 2019:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4zAcHPiUrxs?si=xCvCaAvI3LvJ49s1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/4zAcHPiUrxs?si=xCvCaAvI3LvJ49s1" frameborder="0" allowfullscreen></iframe>
 
 ## References
 
