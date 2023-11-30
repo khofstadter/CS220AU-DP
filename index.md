@@ -1,7 +1,6 @@
 <!--
 ## Tasks
-  - full width video
-  - centered images
+  - centered images if not full width
 - can I address the students with 'you' here?
 - can I then recontextualize it for a research paper?
 - can I see previous version of the website in the browser using GitHub?
@@ -10,7 +9,7 @@
     - staff at Essex or elsewhere
 -->
 
-# Linking Digital Identities to Existential Risks
+## Linking Digital Identities to Existential Risks
 <!-- the title is the research question -->
 v.01
 
@@ -24,7 +23,7 @@ v.01
 
 Keywords: digital identities, existential risks, research methods, content production, optimized learning, sense-making, professional digital identities
 
-## Introduction
+### Introduction
 Before I started teaching the Autumn part of the Navigating the Digital World module in 2021 (the CS220AU) at the University of Essex, it primarily looked at the field of digital identities and the digital world (e.g., password management, CV enhancements, the use of certain software and hardware for content production<!-- what else?-->).
 
 <!-- explain that AU is more practical and SP more theoretical? -->
@@ -39,10 +38,10 @@ As students' feedback was positive, the 2023 assignment brief was to look at the
 
 <!-- I also have an interest in both fields, but I would say I am more of an expert in the field of digital identities than existential risks. -->
 
-## Linking the Fields
+### Linking the Fields
 
-## Conclusion
-### Recommendations
+### Conclusion
+#### Recommendations
 These are my recommendations for teachers and students: 
 
 ### Next Steps
@@ -52,9 +51,9 @@ My next steps to further develop this module are
 
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/4zAcHPiUrxs?si=xCvCaAvI3LvJ49s1" frameborder="0" allowfullscreen></iframe>
 
-## References
+### References
 
 [^Hofstadter2019SelfAndPeerAssessmentToolAndRationale]: Hofstädter, K. 2019 Self and peer assessment tool and rationale. This document was submitted as part of my Learning and Teaching (Higher Education) PG Cert course at the Anglia Ruskin University. Available at [https://krishofstadter.com/assets/docs/Hofstadter2019SelfAndPeerAssessmentToolAndRationale.pdf](https://krishofstadter.com/assets/docs/Hofstadter2019SelfAndPeerAssessmentToolAndRationale.pdf).
 
-## Image Credits
+### Image Credits
 The header image was generated with Image Creator (DALL3) on 30 November 2023 “A room full of students learning about digital life and existential risks".
