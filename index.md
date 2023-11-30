@@ -13,7 +13,8 @@
 # Linking Digital Identities to Existential Risks
 <!-- the title is the research question -->
 
-Note: This article is not yet finished. I am [sharing the writing process](https://github.com/khofstadter/CS220AU-DP/commits/main/index.md) step-by-step as a teaching method. My primary goal with this is not just to complete an article, but to demonstrate the evolution of thoughts, edits, and improvements along the way.
+<p style="background-color: #f0f0f0; color: #333;">Note: This article is not yet finished. I am <a href="https://github.com/khofstadter/CS220AU-DP/commits/main/index.md" style="color:#0066cc;">sharing the writing process</a> step-by-step as a teaching method. My primary goal with this is not just to complete an article, but to demonstrate the evolution of thoughts, edits, and improvements along the way.</p>
+
 
 30 Nov 2023 <!-- to amend every time the file is updated -->
 
