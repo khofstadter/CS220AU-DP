@@ -28,7 +28,6 @@ This article is not yet finished. I am sharing the writing process step-by-step 
 
 Keywords: digital identities, existential risks, research methods, content production, optimized learning, sense-making, professional digital identities
 
-
 ## Introduction
 Before I started teaching the Autumn part of the Navigating the Digital World module in 2021 (the CS220AU), it primarily looked at the field of digital identities, the digital world (e.g., password management, the use of certain software and hardware for content production<!-- what else?-->).
 
