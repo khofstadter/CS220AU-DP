@@ -1,28 +1,21 @@
 <!--
 ## Tasks
-- use as a stylesheet with examples for
-  - formatting
-  - when to use hyperlinks and when to put something in the references (footnotes)
-    - footnote (Hofstadter, 20xx, Marking rubric)
   - full width video
   - centered images
 - can I address the students with 'you' here?
 - can I then recontextualize it for a research paper?
+- can I see previous version of the website in the browser using GitHub?
   - can I ask via survey for feedback from
     - all students since 2021 
     - staff at Essex or elsewhere
 -->
 
-# How to Link Digital Identities to Existential Risks?
+# Linking Digital Identities to Existential Risks
 <!-- the title is the research question -->
 
-```
-Note: Article in Progress 
+Note: This article is not yet finished. I am [sharing the writing process](https://github.com/khofstadter/CS220AU-DP/commits/main/index.md) step-by-step as a teaching method. My primary goal with this is not just to complete an article, but to demonstrate the evolution of thoughts, edits, and improvements along the way. As a student following this progress, take this as an opportunity to observe and learn from the workflow of creating a written piece, evolving from its initial draft to final publication.
 
-This article is not yet finished. I am sharing the writing process step-by-step as a teaching method. My primary goal with this is not just to complete an article, but to demonstrate the evolution of thoughts, edits, and improvements along the way. As a student following this progress, take this as an opportunity to observe and learn from the workflow of creating a written piece, evolving from its initial draft to final publication.
-```
-
-30 Nov 2023 <!-- to amend every time the file is updated >
+30 Nov 2023 <!-- to amend every time the file is updated -->
 
 ![An AI generated image with a room full of students learning about digital life and existential risks.](assets/img/2023-11-30-students-digital-life-existential-risks-bing-dalle.jpg)
 
