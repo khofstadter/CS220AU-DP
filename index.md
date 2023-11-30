@@ -49,7 +49,7 @@ My next steps to further develop this module are
 
 - to consider asking CS220AU students to submit a short video summarizing their portfolios, similarly to my Sonic Art students in 2019:
 
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/4zAcHPiUrxs?si=xCvCaAvI3LvJ49s1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4zAcHPiUrxs?si=xCvCaAvI3LvJ49s1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <!-- todo code on https://navigatingthedigitalworld.com/docs/digital-identities page for embedding full width video -->
 
 ### References
 
