@@ -11,6 +11,19 @@ And [this](https://navigatingthedigitalworld.com/) is an external link to web pa
 
 **Digital Identities**
 
+**Extential Risks**
+
+- How do they use our data?
+- what is the purpose to correct them
+- How and what kind of data do they track?(vpnMentor)
+- Do existential risks differ depending on positioning(VR mapping)?
+
+**what kind of Extential risks**
+- privacy
+- health
+- cultural values
+- could be bad effected to environment
+
 
 
 ## Body
