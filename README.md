@@ -62,18 +62,19 @@ web
 **For the assignment**
 1. Understand both **[digital identities](https://navigatingthedigitalworld.com/docs/digital-identities)** and **[extential risks](https://navigatingthedigitalworld.com/docs/existential-risks)** [example](https://www.cser.ac.uk/)
 2. the research question
-   **What existential risks does it bring to us or to society and the environment for companies (especially tech giants) to know our digital identities?**
+   What existential risks does it bring to us or to society and the environment for companies (especially tech giants) to know our digital identities?→ **What impact can tech companies have on us, society and the environment?** 
    - How do they use our data?
    - what is the purpose to correct them
    - How and what kind of data do they track?([vpnMentor](https://www.vpnmentor.com/research/whos-watching-you/#/?filter=thirdParty))
    - Do existential risks differ depending on positioning(VR mapping)?
-4. what kind of Extential risks
+3. what kind of Extential risks
    - privacy
    - health
    - cultural values
    - could be bad effected to environment
-5. Digital identities
+4. Research more about Digital identities
    - Positioning of my(or someone's else) digital identity in each account (**use VR mapping**)
+5. Start writing draft
 
 
 
@@ -100,18 +101,15 @@ Presentation, Github
 2023-11-10 w6
 Presentation, read other's final assessment(check marking and feedback)
 
-2023-11-8/9
-**getting used to using Github**
+2023-11-8/9 **getting used to using Github**
 - Wrote down Overview and detail of assignment
 - watched videoes about digital identities
 - update tasks
 
-2023-11-03 W5
-**[Content Production](https://navigatingthedigitalworld.com/docs/content-production)**
+2023-11-03 W5 **[Content Production](https://navigatingthedigitalworld.com/docs/content-production)**
 - Text, Image, Audio, Movie
 
-2023-10-27 W4
-**[Project Management](https://navigatingthedigitalworld.com/docs/project-management)**
+2023-10-27 W4 **[Project Management](https://navigatingthedigitalworld.com/docs/project-management)**
 Five stage of APM
 These five things are connected to next five title.
 →Goals, design, development, testing, development
@@ -125,9 +123,8 @@ Skimming, Scanning, and Note-taking
 	4. Conclusion (skim).
 	5. Body of the paper (scan).
 
-2023-10-20 w3
-create github account and how to use it
+2023-10-20 w3 create github account and how to use it
   
-2022-10-13 w2
+2022-10-13 w2 Navigating the Digital World
 - Password Management-number, sign
 - footnote: use some keyword(don't use number)
