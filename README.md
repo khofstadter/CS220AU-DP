@@ -89,8 +89,6 @@ For Presentation(2023-11-10)
 ## Log
 2023-12-01 
 
-2023-11-28 Research on Digital identities
-
 2023-11-24 w8 no class
 
 2023-11-18 read and review again about how to add footnotes, images and hyperlink
