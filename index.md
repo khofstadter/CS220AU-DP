@@ -9,6 +9,10 @@ Keywords: tech companies, digital identities, existential risks, tracking data, 
 
 And [this](https://navigatingthedigitalworld.com/) is an external link to web page on another website. 
 
+**Digital Identities**
+
+
+
 ## Body
 Below you see an example of embedding an image that is found in this repository's assets/img folder: 
 
