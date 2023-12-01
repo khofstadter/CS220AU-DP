@@ -74,7 +74,8 @@ web
    - could be bad effected to environment
 4. Research more about Digital identities
    - Positioning of my(or someone's else) digital identity in each account (**use VR mapping**)
-5. Start writing draft
+5. Find some articles related to my research
+6. Start writing draft
 
 
 
