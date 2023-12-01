@@ -52,9 +52,8 @@ My next steps to further develop this module are
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4zAcHPiUrxs?si=xCvCaAvI3LvJ49s1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <!-- todo code on https://navigatingthedigitalworld.com/docs/digital-identities page for embedding full width video -->
 
-## References
-
-[^Hofstadter2019SelfAndPeerAssessmentToolAndRationale]: Hofstädter, K. 2019 Self and peer assessment tool and rationale. This document was submitted as part of my Learning and Teaching (Higher Education) PG Cert course at the Anglia Ruskin University. Available at [https://krishofstadter.com/assets/docs/Hofstadter2019SelfAndPeerAssessmentToolAndRationale.pdf](https://krishofstadter.com/assets/docs/Hofstadter2019SelfAndPeerAssessmentToolAndRationale.pdf).
-
 ## Image Credits
 The header image was generated with Image Creator (DALL3) on 30 November 2023 “A room full of students learning about digital life and existential risks".
+
+## References
+[^Hofstadter2019SelfAndPeerAssessmentToolAndRationale]: Hofstädter, K. 2019 Self and peer assessment tool and rationale. This document was submitted as part of my Learning and Teaching (Higher Education) PG Cert course at the Anglia Ruskin University. Available at [https://krishofstadter.com/assets/docs/Hofstadter2019SelfAndPeerAssessmentToolAndRationale.pdf](https://krishofstadter.com/assets/docs/Hofstadter2019SelfAndPeerAssessmentToolAndRationale.pdf).
