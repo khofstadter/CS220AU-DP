@@ -85,11 +85,17 @@ For Presentation(2023-11-10)
 
 
 ## Log
+2023-12-01 
+
+2023-11-28 Research on Digital identities
+
+2023-11-24 w8 no class
+
+2023-11-18 read and review again about how to add footnotes, images and hyperlink
+
 2023-11-17 w7
 Presentation, Github
 - edit index file: title, after that date and key words, footnotes, images, hyperlink(internal and external)
-    
-
 
 2023-11-10 w6
 Presentation, read other's final assessment(check marking and feedback)
