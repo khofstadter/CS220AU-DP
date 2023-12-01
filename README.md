@@ -125,6 +125,6 @@ Skimming, Scanning, and Note-taking
 
 2023-10-20 w3 create github account and how to use it
   
-2022-10-13 w2 Navigating the Digital World
+2022-10-13 w2 [Navigating the Digital World](https://navigatingthedigitalworld.com/docs/cs220/cs220au)
 - Password Management-number, sign
 - footnote: use some keyword(don't use number)
