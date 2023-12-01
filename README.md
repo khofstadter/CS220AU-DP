@@ -75,7 +75,7 @@ web
 4. Research more about Digital identities
    - Positioning of my(or someone's else) digital identity in each account (**use VR mapping**)
 5. Find some articles related to my research
-6. Start writing draft
+6. Start writing draft (Introduction)
 
 
 
@@ -87,7 +87,7 @@ For Presentation(2023-11-10)
 
 
 ## Log
-2023-12-01 
+2023-12-01 w9 progress, chat gpt
 
 2023-11-24 w8 no class
 
