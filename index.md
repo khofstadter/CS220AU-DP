@@ -17,7 +17,7 @@ v.01
 
 30 Nov 2023 <!-- to amend every time the file is updated -->
 
-<p style="background-color: #f0f0f0; color: #333;">Note: This article is not yet finished. Similarly to the [module's main website](https://navigatingthedigitalworld.com/), it's also in progress. I am <a href="https://github.com/khofstadter/CS220AU-DP/commits/main/index.md" style="color:#0066cc;">sharing the writing process</a> step-by-step as a teaching method. My primary goal with this is not to complete an article, but to demonstrate the evolution of thoughts, edits, and improvements along the way.</p>
+<p style="background-color: #f0f0f0; color: #333;">Note: This article is not yet finished. Similarly to the <a href="https://navigatingthedigitalworld.com/" style="color:#0066cc;">module's main website</a>, it's also in progress. I am <a href="https://github.com/khofstadter/CS220AU-DP/commits/main/index.md" style="color:#0066cc;">sharing the writing process</a> step-by-step as a teaching method. My primary goal with this is not to complete an article, but to demonstrate the evolution of thoughts, edits, and improvements along the way.</p>
 
 ![An AI generated image with a room full of students learning about digital life and existential risks.](assets/img/2023-11-30-students-digital-life-existential-risks-bing-dalle.jpg)
 
