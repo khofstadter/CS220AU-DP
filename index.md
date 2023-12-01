@@ -1,7 +1,7 @@
-# What impact can tech companies have on society, the environment and us?
+# What impact can tech companies have on society, the environment, and us?
 17 Nov 2023
 
-Keywords: digital identities, existential risks, tracking data, personal social media accounts, tech giants, visitor mode, residential mode
+Keywords: tech companies, digital identities, existential risks, tracking data, personal social media accounts, tech giants, visitor mode, residential mode
 
 
 ## Introduction
