@@ -1,5 +1,11 @@
-# Sense-making and the dangers of our information ecosystem
+# The dangers of our information ecosystem
 ## Keywords
+- mass communication
+- sense-making
+- manipulation
+- institution
+- behaviour
+  
 ## Introduction
 How does today’s mass communication, boosted by technology can lead to existential risks? How can we be more aware of what information are thrown at us by companies, government, and medias?
 Whether in our time or in the past, our behaviour has always been influenced by external factors - the environment in which we live, the people around us, etc. Companies, medias, and government can influence our decision making and encourage us not to think for ourselves. The problem today is that since the invention of mass communication (the press and then television), and then the Internet, these external players are increasingly omnipresent in our lives, whether we are aware of it or not, and have a major influence on the decisions we make.
@@ -29,7 +35,7 @@ Escalation of conflicts :
 - **Collective misinformation can lead to mistrust** of institutions, democratic processes and other foundations of society, **resulting in social conflict, political instability and even crisis**
 - the spread of information bubbles **divide communities, make constructive dialogue difficult and compromise society's ability to tackle common challenges**
 - **Trust is essential for institutions, governments and social interactions to function smoothly.** If the population of a country does not trust their governement anymore, its country will no longer be properly managed, either economically or politically. Some groups within the population may also want to overthrow the government they no longer trust, leading to internal conflict and civil war.
-### B. Areas for improvement
+### B. Areas for improvement and sense-making
 Raising awareness, corporate transparency ,International cooperation to develop common standards for information management
 Sense making: be subjective, look at sources
 
