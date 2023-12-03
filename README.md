@@ -30,6 +30,7 @@ Instructions on using this GitHub repository as a template for your assignment w
    
 
 ## Log
+- 2023-12-03 Started writing my plan on my index page + looked for keywords
 - 2023-11-28 Detailed my plan by seeking sources
 - 2023-11-15 Made a plan for my essay
 - 2023-11-14 Made a mindmap to find the key terms of my essay
