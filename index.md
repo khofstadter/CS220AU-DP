@@ -18,6 +18,7 @@ article "Information and Disinformation: Social Media in the COVID-19 Crisis" ht
 Use of technology to influence behaviours--> Impacts political stability and democratic processes (Historical examples of manipulation of opinion leading to conflict)
 Article "Social network behavior and public opinion manipulation" https://www-sciencedirect-com.uniessexlib.idm.oclc.org/science/article/pii/S2214212621002441 
 This article shows that social media has been increasingly analyzed by a lot of countries for its perceptual management and psychological manipulation, which can be used as a war tool to shape ideas, redesign society, increase sensitivity, and strengthen social responses, ultimately weakening the administration, society, military, or economy of a country.
+Another example in our pop-culture : the movie "don't look up" on Netflix.
 ### C. Information bubbles
 Algorithms, by calculating regularities in behaviour to establish a user profile, contribute to a form of isolation for Internet users. In reality, each person accesses a different version of the Web, which locks them into a "unique and optimised" bubble.
 -->Extreme polarisation of society : Information bubbles foster a sense of group identity and solidarity among like-minded individuals, making it harder for them to question their beliefs or consider alternative perspectives.
