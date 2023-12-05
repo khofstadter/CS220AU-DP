@@ -35,7 +35,14 @@ They have content moderation standards in place to filter material published on 
 In several occasions, companies have been criticised for dubious censorship policies. For example, deleting certain political content, banning accounts, or limiting the exposure of specific speakers might be interpreted as acts of censorship, raising discussions over free expression.
 These algorithms decide what information is shown to a user and have the ability to affect the media agenda by favouring certain issues over others. In this sense, technology behemoths have an impact on the visibility of specific content as well as the moulding of public opinion, which can create as we saw before information bubbles.
 ### B. Surveillance and Privacy
-Data collection 
+Data collection on social media by companies, or in our daily lives with smart objects.
+
+Another examples : social commerce and how it affects our privacy.
+The article "Investigating online social media users’ behaviors for social commerce recommendations" indicates "With business concepts of online shopping and social networks, social commerce connects sellers, and consumers span over websites and social platforms".
+https://www-sciencedirect-com.uniessexlib.idm.oclc.org/science/article/pii/S0160791X21001305?via%3Dihub 
+
+Social commerce platforms collect extensive user data, including browsing history, preferences, and interactions, to create detailed profiles for targeted advertising. Then, they can share this data with third-party advertisers that could increase the risk of unauthorized access or misuse. Some companies use tracking technologies, like cookies and pixels to monitor user behavior and analyse it to show more pertinent and personnalised information to eacher user.Social commerce, by facilitating payments online, can encore more people to pay on social platform, which could be dangerous if those payment informations are revealed : in the event of a data breach, users' financial details may be compromised, leading to potential fraud or identity theft. 
+
 ### C. International challenges
 Influence of disinformation on international relations + Manipulation of information for geopolitical purposes nécessité global cooperation to mitigate these risks
 ##  III. Impact on Existing Risks and Areas for Improvement
