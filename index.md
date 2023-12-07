@@ -10,8 +10,7 @@
 -->
 
 # Linking Digital Identities to Existential Risks
-<!-- the title is the research question -->
-v.02
+<!-- could it be the research question e.g. how to link ... ? -->
 
 [Krisztián Hofstädter](https://krishofstadter.com/)
 
@@ -28,35 +27,66 @@ Before I started teaching the Autumn part of the Navigating the Digital World mo
 
 <!-- explain that AU is more practical and SP more theoretical? -->
 
-There was nothing wrong with this, of course. However, to make the module more in line with my own expertise and interests and more engaging for students, from 2021 onwards, my students have been developing their professional identities via setting up their own websites for resident modes of engagement with the web for their assignments (instead of simply submitting an essay in a Word or PDF file). This decision was based on my previous success at Anglia Ruskin University using this method [^Hofstadter2019SelfAndPeerAssessmentToolAndRationale] and by Dave White discussing the benefits of university students developing their resident modes of engagement with the Web not after graduation, but while being students.[^DaveWhite] 
+There was nothing wrong with this, of course. However, to make the module more in line with my own expertise and interests and more engaging for students, since 2021, the CS220AU students have been developing their professional identities via setting up their own websites for resident modes of engagement with the Web for their assignments (instead of simply submitting an essay in a Word or PDF file). This decision was based on my previous success at Anglia Ruskin University using this method [^Hofstadter2019SelfAndPeerAssessmentToolAndRationale] and inspired by Dave White discussing the benefits of students developing their resident modes of engagement with the Web not after graduation, but while being students.[^DaveWhite] 
 
-[^Hofstadter2019SelfAndPeerAssessmentToolAndRationale]: Hofstädter, Krisztián. 2019 Self and peer assessment tool and rationale. This document was submitted as part of my Learning and Teaching (Higher Education) PG Certificate course at the Anglia Ruskin University, Cambridge. Available at [krishofstadter.com](https://krishofstadter.com/assets/docs/Hofstadter2019SelfAndPeerAssessmentToolAndRationale.pdf).
+[^Hofstadter2019SelfAndPeerAssessmentToolAndRationale]: Hofstädter, Krisztián. 2019 Self and peer assessment tool and rationale. This document was submitted as part of my Learning and Teaching (Higher Education) PG Certificate course at Anglia Ruskin University, Cambridge. Available at [krishofstadter.com](https://krishofstadter.com/assets/docs/Hofstadter2019SelfAndPeerAssessmentToolAndRationale.pdf).
 
 [^DaveWhite]: White, Dave. 2014 Visitors and Residents: Credibility. Oxford University. Published on [Youtube](https://www.youtube.com/watch?v=kO569eknM6U). 
 
 My first cohorts in 2021 could develop their websites with any website builder (e.g., [WordPress](https://wordpress.org/), [GitHub Pages](https://pages.github.com/), [Wix](https://www.wix.com/)) and populate them with whatever content they thought could help showcase their professional identities (e.g., CVs, portfolios, artistic work, blog posts). <!-- I could help them with WordPress and GitHub Pages. Actually they all had to have a GitHub account, but the website didn't have to be with GitHub. -->
 
-In 2022, I refined the assignment and asked students to only develop websites with GitHub Pages, which helped produce more consistent portfolios across the cohort <!-- which then is easier to mark --> and allowed me to better monitor the development of these websites via students' GitHub repositories. Furthermore, to make the module more timely, I asked students to produce content on these websites that links digital identities and existential risks. Their content could either reflect on all links they found or on one more specifically. Inspired by the decolonizing of the curriculum movement <!-- it's not a movement, what is it -->[^decolonize], I thought there were other, perhaps more urgent matters all students should be aware of as well.
+In 2022, I refined the assignment and asked students to only develop websites with GitHub Pages, which helped produce more consistent portfolios across the cohort <!-- which then is easier to mark --> and allowed me to better monitor the development of these websites via students' GitHub repositories. Furthermore, to make the module more timely, I asked students to produce content on these websites that links digital identities and existential risks. Their content could either reflect on all the links they found or on one more specifically. Inspired by the decolonizing of the curriculum movement<!-- it's not a movement, what is it --> [^decolonize], I thought existential risks were also important, if not more important matters, of which students should be aware.
 
 [^decolonize]: Arshad, Rowena 2021 Decolonising the curriculum – how do I get started? Published in [Times Higher Education](https://www.timeshighereducation.com/campus/decolonising-curriculum-how-do-i-get-started).
 
 
 Feedback from students was positive, so the 2023 assignment brief was to look at the connections between digital identities and existential risks again, but this year, everyone had to focus on **one** specific connection to reflect on using their websites.
 
+<!--  add a brief summary of what the article will cover -->
+
 ### Progress = happiness
 #### Log, tasks lists, commit history, weekly student updates
+<!-- the importance of keeping check of each others work via logs, task lists, and weekly updates at the start of each class from week 3 onwards -->
 #### Workshops
-At ARU, I got used to syllabuses stating with weekly lectures and seminars and ending with three weeks of workshops in which workshops the focus is on understanding how students progressed so far and how the teacher can help untangle issues together with the group or individually with students. This time is very special. <!-- reference to Richard, CMT, ARU -->
+At ARU, I got used to syllabuses starting with weekly lectures and seminars and ending with three weeks of workshops, in which the focus is on understanding how students progressed so far and how the teacher can help untangle issues together with the group or individually with students. This time is very special. <!-- reference to Richard, CMT, ARU -->
 
 ## Linking the Fields
-I certainly have an interest in both fields, but since I am trained as a creative technologist (I got a PhD in developing brain-computer music interfaces for meditation, have been producing audio-visual content as well as websites), and not as an existential risk 'person', my expertise lay more in the field of the digital world and not in existential risks. One might ask the question: "Why then are you teaching existential risks?" Well, I don't. My syllabus focuses on making sure students understand what digital identities are primarily through the VR methods and then provides both, academic research frameworks for students to first immerse in both fields and their intersections <!-- APM--> and professional content production skills <!-- GitHub, Markdown, writing and audio-visual --> to then engage with these intersections. <!-- I distinguish between these two -->  <!-- What are the A/Ds of not being an expert in existential risks? Do the disadvantages make me fell uncomfortable? -->
+I certainly have an interest in both fields, but since I am trained as a creative technologist (I got a PhD in developing brain-computer music interfaces for meditation and have been producing audio-visual content as well as websites), and not as an existential risk 'person', my expertise lies more in the field of the digital world and not in existential risks. One might ask the question, "Why then are you teaching existential risks?" Well, I don't. My syllabus focuses on making sure students understand what digital identities are primarily through White and Le Cornu's Visitors and Residence method [^DaveWhite2] and then provides both academic research frameworks for students to first immerse in both fields and their intersections<!-- APM--> and professional content production skills <!-- GitHub, Markdown, writing and audio-visual --> to then engage with these intersections.<!-- I distinguish between these two -->  <!-- What are the A/Ds of not being an expert in existential risks? Do the disadvantages make me fell uncomfortable? -->
 
-### Literature Review
-1. who made connections already?
-2. how can we find more connections?
+[^DaveWhite2]: White, Dave and Alison Le Cornu 2017 Using ‘Visitors and Residents’ to visualise digital practices. Available online at [First Monday](https://firstmonday.org/ojs/index.php/fm/article/view/7802). 
+
+### Definitions and Classifications
+
+**Digital Identities (DI)**
+
+![](assets/img/vr-map-plain.svg)
+
+|                 | Visitor                                                                                                      | Resident                                                                           |
+|-----------------|:-----------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|
+| **Personal (Pe)**    | Activities like searching/reading information on the Web, watching videos, shopping, paying bills.          | Social media or emails for personal communication, leaving a social trace behind.  |
+| **Professional (Pr)** | Similar activities but in a professional context, e.g., market research.                                    | Disseminating or discussing ideas as a worker or a student in higher education online.   |
+
+
+**Existential Risks (ER)**
+
+| Risks                        | Origin        | Predictability |
+| ---------------------------- | ------------- | -------------- |
+| Asteroid impact              | Natural       | Unpredictable  |
+| Supervolcanic eruption       | Natural       | Unpredictable  |
+| Pandemic diseases (natural)  | Natural       | Unpredictable  |
+| Cosmic threats               | Natural       | Unpredictable  |
+| Global nuclear war           | Anthropogenic | Unpredictable  |
+| Climate change               | Anthropogenic | Predictable    |
+| Pandemic diseases (engineered)| Anthropogenic | Unpredictable  |
+| Artificial Intelligence (AI) | Anthropogenic | Unpredictable  |
+| Biotechnology risks          | Anthropogenic | Predictable?   |
+
+
+### DI–ER links
+1. who made connections already (i.e. literature review) ?
+2. how can we find more connections (e.g. via the use our own evolving list of keywords and by highlighting not-well-known connections or perhaps making new ones)?
 3. how shall students choose a connection to focus on for the assignments? <!-- they should find something they are interested in, as this interest will (or should) help create a momentum/drive to progress with the assignment. -->
-
-<!-- draft a diagram of the fields -->
+4. how could we draft a visual representation of the two fields that could help understand connections?
 
 ## Conclusion
 ### Recommendations
