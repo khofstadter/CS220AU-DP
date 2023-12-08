@@ -33,6 +33,8 @@ They have content moderation standards in place to filter material published on 
 In several occasions, companies have been criticised for dubious censorship policies. For example, deleting certain political content, banning accounts, or limiting the exposure of specific speakers might be interpreted as acts of censorship, raising discussions over free expression.
 These algorithms decide what information is shown to a user and have the ability to affect the media agenda by favouring certain issues over others. In this sense, technology behemoths have an impact on the visibility of specific content as well as the moulding of public opinion, which can create as we saw before information bubbles.
 
+another example : the sponsorised tweets promoted by twitter
+
 https://www-sciencedirect-com.uniessexlib.idm.oclc.org/science/article/pii/S0377221720308249?via%3Dihub#sec0004
 The responsibility of social media in times of societal and political manipulation
 Reisach, Ulrike 
