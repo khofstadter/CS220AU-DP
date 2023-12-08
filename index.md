@@ -50,6 +50,11 @@ Social commerce platforms collect extensive user data, including browsing histor
 
 ### C. International challenges
 Influence of disinformation on international relations + Manipulation of information for geopolitical purposes nécessité global cooperation to mitigate these risks
+
+Theorising digital disinformation in international relations
+la Cour, Christina
+https://link-springer-com.uniessexlib.idm.oclc.org/article/10.1057/s41311-020-00215-x
+
 ##  III. Impact on Existing Risks and Areas for Improvement
 ### A. Existing risks
 Escalation of conflicts :
