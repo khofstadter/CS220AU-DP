@@ -22,9 +22,9 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 Instructions on using this GitHub repository as a template for your assignment will be provided in class. Seek clarification if anything is unclear.
 
 ## Tasks
-1. search for interesting bibliography
-2. Start writing a draft
-3. search for key terms
+1. refining the list of key words
+2. search for relevant litterature
+3. continue writing a draft
 4. Create visuals (graphs of spectrum, illustrations)
 5. Write a paragraph to explain the visual identity of the project and put it in the overview
    
