@@ -24,6 +24,8 @@ Another example in our pop-culture : the movie "don't look up" on Netflix.
 Algorithms, by calculating regularities in behaviour to establish a user profile, contribute to a form of isolation for Internet users. In reality, each person accesses a different version of the Web, which locks them into a "unique and optimised" bubble.
 -->Extreme polarisation of society : Information bubbles foster a sense of group identity and solidarity among like-minded individuals, making it harder for them to question their beliefs or consider alternative perspectives.
 
+https://link-springer-com.uniessexlib.idm.oclc.org/chapter/10.1007/978-3-030-93413-2_15#Sec4 
+
 ## II. Control of Information by Companies
 ### A. Power of the technological giants
 Social networks, search engines, and messaging services are all owned by technological giants.
