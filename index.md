@@ -20,12 +20,16 @@ On top of all this, disinformation can lead to widespread mistrust, undermining 
 Misinformation can be countered by actions taken by the media, digital platforms and governments to promote accurate, diverse and transparent information. However, large institutions will sometimes use their power of moderation for their own ends.
 
 ### B. Manipulation of Public Opinion by institutions
-Use of technology to influence behaviours--> Impacts political stability and democratic processes (Historical examples of manipulation of opinion leading to conflict).
+The deployment of technology to influence behaviour has become an integral aspect of modern societies. For example, during the 2016 US presidential elections, foreign entities exploited social media platforms to spread disinformation, sow discord and influence public opinion. 
 
-Article "Social network behavior and public opinion manipulation" https://www-sciencedirect-com.uniessexlib.idm.oclc.org/science/article/pii/S2214212621002441 
-This article shows that social media has been increasingly analyzed by a lot of countries for its perceptual management and psychological manipulation, which can be used as a war tool to shape ideas, redesign society, increase sensitivity, and strengthen social responses, ultimately weakening the administration, society, military, or economy of a country.
+Social media has been increasingly analysed by a lot of countries for its perceptual management and psychological manipulation, which can be used as a war tool to shape ideas, redesign society, increase sensitivity, and strengthen social responses, ultimately weakening the administration, society, military, or economy of a country.  In 2011, the US Defense Advanced Research Projects Agency published a plan created with the sole aim of improving the digital presence of US forces and supporting them in guiding public opinion in a professional manner (Chen, L., Chen, J. and Xia, C.,2022). The plan dates back more than 10 years and has undoubtedly been perfected over the years thanks to the development of new online social platforms.
 
-Another example in our pop-culture : the movie "don't look up" on Netflix.
+Another more accessible example is the film 'Don't look up' on the Netflix platform. The film is a satire that tackles the theme of inaction in the face of an existential threat, symbolised by the discovery of a deadly comet heading for Earth. The issues at stake in the film highlight the difficulty of mobilising public attention on serious problems due to media manipulation, political indifference and social polarisation. While scientists predict the end of humanity, the President herself promotes a strategy of denial on social networks aimed at reassuring the population, with the sole aim of maintaining her power and her hold over the population. 
+
+https://youtu.be/JQERWWbnA5c?si=mKic55LmhmFjw9Ao 
+
+The clip you can see is a good illustration of how institutions can distort reality and manipulate public opinion: all the President needs to do to manipulate a whole section of the population is to boost the egos of her listeners, by making fun of those who are afraid, and by using an enticing slogan. It also shows the extent to which over-frequent use of social networks can lead to the polarisation of society, as in this film.
+
 ### C. Information bubbles
 Algorithms, by calculating regularities in behaviour to establish a user profile, contribute to a form of isolation for Internet users. In reality, each person accesses a different version of the Web, which locks them into a "unique and optimised" bubble.
 -->Extreme polarisation of society : Information bubbles foster a sense of group identity and solidarity among like-minded individuals, making it harder for them to question their beliefs or consider alternative perspectives.
@@ -67,13 +71,16 @@ Escalation of conflicts :
 - **Collective misinformation can lead to mistrust** of institutions, democratic processes and other foundations of society, **resulting in social conflict, political instability and even crisis**
 - the spread of information bubbles **divide communities, make constructive dialogue difficult and compromise society's ability to tackle common challenges**
 - **Trust is essential for institutions, governments and social interactions to function smoothly.** If the population of a country does not trust their governement anymore, its country will no longer be properly managed, either economically or politically. Some groups within the population may also want to overthrow the government they no longer trust, leading to internal conflict and civil war.
+- In the event of an actual war, social media networks can serve as a tool for indirect offensives, encompassing covert media manipulation, dissemination of rumors, provocation of internal conflicts within the targeted party, and the spread of tension and negative emotions(Chen, L., Chen, J. and Xia, C.,2022).
+- 
 ### B. Areas for improvement and sense-making
 Raising awareness, corporate transparency ,International cooperation to develop common standards for information management
 Sense making: be subjective, look at sources
 
 ## image credit
 ## references
-- S;, G.M. (no date) Information and disinformation: Social media in the COVID-19 crisis, Academic emergency medicine : official journal of the Society for Academic Emergency Medicine. Available at: https://pubmed.ncbi.nlm.nih.gov/32474977/ (Accessed: 11 December 2023). 
+- S;, G.M. (no date) Information and disinformation: Social media in the COVID-19 crisis, Academic emergency medicine : official journal of the Society for Academic Emergency Medicine. Available at: https://pubmed.ncbi.nlm.nih.gov/32474977/ (Accessed: 11 December 2023).
+- Chen, L., Chen, J. and Xia, C. (2022) ‘Social network behavior and public opinion manipulation’, Journal of Information Security and Applications, 64, p. 103060. doi:10.1016/j.jisa.2021.103060. 
 
 
 ## Hyperlinks
