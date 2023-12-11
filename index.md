@@ -26,9 +26,11 @@ Social media has been increasingly analysed by a lot of countries for its percep
 
 Another more accessible example is the film 'Don't look up' on the Netflix platform. The film is a satire that tackles the theme of inaction in the face of an existential threat, symbolised by the discovery of a deadly comet heading for Earth. The issues at stake in the film highlight the difficulty of mobilising public attention on serious problems due to media manipulation, political indifference and social polarisation. While scientists predict the end of humanity, the President herself promotes a strategy of denial on social networks aimed at reassuring the population, with the sole aim of maintaining her power and her hold over the population. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=JQERWWbnA5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The clip you can see is a good illustration of how institutions can distort reality and manipulate public opinion: all the President needs to do to manipulate a whole section of the population is to boost the egos of her listeners, by making fun of those who are afraid, and by using an enticing slogan. It also shows the extent to which over-frequent use of social networks can lead to the polarisation of society, as in this film.
+https://github.com/2300193/CS220AU-DP/assets/148567991/53ef000a-f2c4-46be-bbb1-57897aa81fbd
+
+
+The clip you can see is a good illustration of how institutions can distort reality and manipulate public opinion: all the President had to do in order to manipulate a whole section of the population was to boost their egos by making fun of those who are afraid, and by using an enticing slogan. It also shows the extent to which over-frequent use of social networks can lead to the polarisation of society, as in this film, where we can see the population clearly divide itslef into "belivers" and "non-believers".
 
 ### C. Information bubbles
 Algorithms, by calculating regularities in behaviour to establish a user profile, contribute to a form of isolation for Internet users. In reality, each person accesses a different version of the Web, which locks them into a "unique and optimised" bubble.
