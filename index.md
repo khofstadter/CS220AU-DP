@@ -1,18 +1,24 @@
 # The dangers of our information ecosystem
 **Keywords** 
-Digital identities, existencial risks,mass communication, sense-making, manipulation, institution,behaviour
+Digital identities, existencial risks,mass communication, sense-making, manipulation, institution,behaviour, social media, disinformation
   
 ## Introduction
-Whether in our time or in the past, our behaviour has always been influenced by external factors - the environment in which we live, the people around us, etc. Companies, medias, and governments can influence our decision making and encourage us not to think for ourselves. The problem today is that since the invention of mass communication (the press, television), and then the Internet, these external players are increasingly omnipresent in our lives, whether we are aware of it or not, and have a major influence on the decisions we make. 
+Whether in our time or in the past, our behaviour has always been influenced by external factors, like the environment in which we live, the people around us, etc. Various entities such as companies, media outlets, and governments have the ability to shape our decision-making and discourage independent thought. The problem today is that since the invention of mass communication (the press, television), and then the Internet, these external players are increasingly omnipresent in our lives, whether we are aware of it or not, and have a major influence on the decisions we make. 
 
 So we can then ask ourselves : How does today’s mass communication, boosted by technology leads to existential risks? How can we be more aware of what information are thrown at us by companies, governments, and medias?
 
-It is essential to inform ourselves about the informational dangers inherent in our hyper-connected society, such as disinformation or the control of algorithms by major institutions, and the resulting polarisation of people. We can also look at the real power wielded by the big companies, what they censor, what they encourage and how technology is used to control the mind of people. And finally, all this might help us understand how these actions can lead to humanity's downfall, by boosting internal conflicts or disputes between countries, and motivate us to develop our awareness of these issues so that we can better position ourselves in our society and be mindful of our choices.
+In this essay, we will first inform ourselves about the informational dangers inherent in our hyper-connected society, such as disinformation or the manipalutation of public opionion by major institutions, and the resulting creation of information bubbles. Then, we will focus on big companies and what they control, censor, and encourage. And finally, all this might help us understand how these actions can lead to humanity's downfall, by boosting internal conflicts or disputes between countries. All of these reflexions can then motivate us to develop our awareness of these issues so that we can better position ourselves in our society and be mindful of our choices.
 
 ## I. Threats to the Information Ecosystem
 ### A. Disinformation
-The example of COAVID 19 and the amount of shared information during this period 
-article "Information and Disinformation: Social Media in the COVID-19 Crisis" https://onlinelibrary.wiley.com/doi/10.1111/acem.14036
+Disinformation water down the quality of information available online. It can make it difficult to distinguish between reliable and unreliable sources, thereby weakening trust in traditional media and institutions.
+
+In healthcare, disinformation can spread false information about vaccines, medical treatments or health crises. This can endanger public health by discouraging vaccination, encouraging risky behaviour or creating mistrust in the health authorities. For example, during the COVID crisis, social networks were in turmoil. With too much information being relayed, it can quickly become obsolete or simply irrelevant. What's more, a lot of influencers relayed a lot of information during this period. TalkWalker, an online social media surveillance programme, estimated that references to COVID-19 on social media reached 40.2 million times between May 12, 2020, and May 18, 2020. (M. Gottlieb, 2020). Influencers, whether they work in the medical field or not, each have their own community and will further boost the circulation of rumours on social networks, such as whether or not to get vaccinated.
+
+On top of all this, disinformation can lead to widespread mistrust, undermining social cohesion. When people are repeatedly exposed to false information, they can become more sceptical and less inclined to believe even factual, well-verified information. And when there are constant doubts about the accuracy of the information they receive, it can undermine the mutual trust necessary for a society to function properly. 
+
+Misinformation can be countered by actions taken by the media, digital platforms and governments to promote accurate, diverse and transparent information. However, large institutions will sometimes use their power of moderation for their own ends.
+
 ### B. Manipulation of Public Opinion by institutions
 Use of technology to influence behaviours--> Impacts political stability and democratic processes (Historical examples of manipulation of opinion leading to conflict).
 
@@ -67,6 +73,7 @@ Sense making: be subjective, look at sources
 
 ## image credit
 ## references
+- S;, G.M. (no date) Information and disinformation: Social media in the COVID-19 crisis, Academic emergency medicine : official journal of the Society for Academic Emergency Medicine. Available at: https://pubmed.ncbi.nlm.nih.gov/32474977/ (Accessed: 11 December 2023). 
 
 
 ## Hyperlinks
