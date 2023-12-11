@@ -1,6 +1,6 @@
 # The dangers of our information ecosystem
 **Keywords** 
-Digital identities, existencial risks,mass communication, sense-making, manipulation, institution,behaviour, social media, disinformation
+Digital identities, existencial risks, mass communication, sense-making, manipulation, institution, behaviour, social media, disinformation, echo chambers
   
 ## Introduction
 Whether in our time or in the past, our behaviour has always been influenced by external factors, like the environment in which we live, the people around us, etc. Various entities such as companies, media outlets, and governments have the ability to shape our decision-making and discourage independent thought. The problem today is that since the invention of mass communication (the press, television), and then the Internet, these external players are increasingly omnipresent in our lives, whether we are aware of it or not, and have a major influence on the decisions we make. 
@@ -26,17 +26,19 @@ Social media has been increasingly analysed by a lot of countries for its percep
 
 Another more accessible example is the film 'Don't look up' on the Netflix platform. The film is a satire that tackles the theme of inaction in the face of an existential threat, symbolised by the discovery of a deadly comet heading for Earth. The issues at stake in the film highlight the difficulty of mobilising public attention on serious problems due to media manipulation, political indifference and social polarisation. While scientists predict the end of humanity, the President herself promotes a strategy of denial on social networks aimed at reassuring the population, with the sole aim of maintaining her power and her hold over the population. 
 
-
 https://github.com/2300193/CS220AU-DP/assets/148567991/53ef000a-f2c4-46be-bbb1-57897aa81fbd
-
 
 The clip you can see is a good illustration of how institutions can distort reality and manipulate public opinion: all the President had to do in order to manipulate a whole section of the population was to boost their egos by making fun of those who are afraid, and by using an enticing slogan. It also shows the extent to which over-frequent use of social networks can lead to the polarisation of society, as in this film, where we can see the population clearly divide itslef into "belivers" and "non-believers".
 
-### C. Information bubbles
-Algorithms, by calculating regularities in behaviour to establish a user profile, contribute to a form of isolation for Internet users. In reality, each person accesses a different version of the Web, which locks them into a "unique and optimised" bubble.
--->Extreme polarisation of society : Information bubbles foster a sense of group identity and solidarity among like-minded individuals, making it harder for them to question their beliefs or consider alternative perspectives.
+### C. Echo chambers
+Therefore algorithms, by calculating regularities in behaviour to establish a user profile, contribute to a form of isolation for Internet users. In reality, each person accesses a different version of the Web, which locks them into a "unique and optimised" bubble.
 
-https://link-springer-com.uniessexlib.idm.oclc.org/chapter/10.1007/978-3-030-93413-2_15#Sec4 
+This can lead to an extreme polarisation of society : echo chambers foster a sense of group identity and solidarity among like-minded individuals, making it harder for them to question their beliefs or consider alternative perspectives.
+
+Consider an individual with well-defined political views. If they only follow information sources that support their beliefs, the algorithms of social platforms will tend to present them with more similar content. Over time, this individual may find themselves immersed in an echo chamber where their opinions are constantly validated and reinforced, without being exposed to alternative perspectives. The individual's mind will then close in on their own beliefs, not only making their opinion even more powerful, but also no longer seeking out other points of view.
+
+This polarisation of information can lead to deeper divisions within society, as individuals hold worldviews that are increasingly far apart. This can make constructive dialogue difficult and contribute to growing political and social polarisation.
+
 
 ## II. Control of Information by Companies
 ### A. Power of the technological giants
@@ -82,7 +84,8 @@ Sense making: be subjective, look at sources
 ## image credit
 ## references
 - S;, G.M. (no date) Information and disinformation: Social media in the COVID-19 crisis, Academic emergency medicine : official journal of the Society for Academic Emergency Medicine. Available at: https://pubmed.ncbi.nlm.nih.gov/32474977/ (Accessed: 11 December 2023).
-- Chen, L., Chen, J. and Xia, C. (2022) ‘Social network behavior and public opinion manipulation’, Journal of Information Security and Applications, 64, p. 103060. doi:10.1016/j.jisa.2021.103060. 
+- Chen, L., Chen, J. and Xia, C. (2022) ‘Social network behavior and public opinion manipulation’, Journal of Information Security and Applications, 64, p. 103060. doi:10.1016/j.jisa.2021.103060.
+
 
 
 ## Hyperlinks
