@@ -59,10 +59,6 @@ However, as we can see from our two examples, sponsored tweets do provoke strong
 
 In addition to all these effects, the advertisers behind sponsored tweets may have access to users' personal data, raising concerns about privacy and information security.
 
-https://www-sciencedirect-com.uniessexlib.idm.oclc.org/science/article/pii/S0377221720308249?via%3Dihub#sec0004
-The responsibility of social media in times of societal and political manipulation
-Reisach, Ulrike 
-
 ### Surveillance and Privacy
 Data collection on social media by companies, or in our daily lives with smart objects.
 
