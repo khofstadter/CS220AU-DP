@@ -64,7 +64,6 @@ Data collection on social media by companies, or in our daily lives with smart o
 
 Another examples : social commerce and how it affects our privacy.
 The article "Investigating online social media users’ behaviors for social commerce recommendations" indicates "With business concepts of online shopping and social networks, social commerce connects sellers, and consumers span over websites and social platforms".
-https://www-sciencedirect-com.uniessexlib.idm.oclc.org/science/article/pii/S0160791X21001305?via%3Dihub 
 
 Social commerce platforms collect extensive user data, including browsing history, preferences, and interactions, to create detailed profiles for targeted advertising. Then, they can share this data with third-party advertisers that could increase the risk of unauthorized access or misuse. Some companies use tracking technologies, like cookies and pixels to monitor user behavior and analyse it to show more pertinent and personnalised information to eacher user.Social commerce, by facilitating payments online, can encore more people to pay on social platform, which could be dangerous if those payment informations are revealed : in the event of a data breach, users' financial details may be compromised, leading to potential fraud or identity theft. 
 
@@ -91,7 +90,8 @@ Sense making: be subjective, look at sources
 ## references
 - S;, G.M. (2020) Information and disinformation: Social media in the COVID-19 crisis, Academic emergency medicine : official journal of the Society for Academic Emergency Medicine. Available at: https://pubmed.ncbi.nlm.nih.gov/32474977/ (Accessed: 11 December 2023).
 - Chen, L., Chen, J. and Xia, C. (2022) ‘Social network behavior and public opinion manipulation’, Journal of Information Security and Applications, 64, p. 103060. doi:10.1016/j.jisa.2021.103060.
-- Reisach, U. (2021) ‘The responsibility of social media in times of societal and political manipulation’, European Journal of Operational Research, 291(3), pp. 906–917. doi:10.1016/j.ejor.2020.09.020. 
+- Reisach, U. (2021) ‘The responsibility of social media in times of societal and political manipulation’, European Journal of Operational Research, 291(3), pp. 906–917. doi:10.1016/j.ejor.2020.09.020.
+- Liao, S.-H., Widowati, R. and Hsieh, Y.-C. (2021) ‘Investigating online social media users’ behaviors for Social Commerce recommendations’, Technology in Society, 66, p. 101655. doi:10.1016/j.techsoc.2021.101655. 
 
 
 ## Hyperlinks
