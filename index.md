@@ -60,28 +60,26 @@ However, as we can see from our two examples, sponsored tweets do provoke strong
 In addition to all these effects, the advertisers behind sponsored tweets may have access to users' personal data, raising concerns about privacy and information security.
 
 ### Surveillance and Privacy
-Data collection on social media by companies, or in our daily lives with smart objects.
 
-Another examples : social commerce and how it affects our privacy.
-The article "Investigating online social media users’ behaviors for social commerce recommendations" indicates "With business concepts of online shopping and social networks, social commerce connects sellers, and consumers span over websites and social platforms".
+The collection of data on social media by companies raises major concerns about privacy. These technologies, often integrated into connected objects, enable constant monitoring of our activities, preferences and online interactions. A concrete example of this data collection is social commerce, where information gathered on user behaviour is used to personalise recommendations. According to the article "Investigating online social media users' behaviors for social commerce recommendations", social commerce connects sellers and consumers on websites and social platforms using the business concepts of online shopping and social networking (Liao, S.-H., Widowati, R. and Hsieh, Y.-C. , 2021). Thus, data collection in the context of social commerce highlights the need to strike a balance between personalising shopping experiences and protecting users' privacy.
 
-Social commerce platforms collect extensive user data, including browsing history, preferences, and interactions, to create detailed profiles for targeted advertising. Then, they can share this data with third-party advertisers that could increase the risk of unauthorized access or misuse. Some companies use tracking technologies, like cookies and pixels to monitor user behavior and analyse it to show more pertinent and personnalised information to eacher user.Social commerce, by facilitating payments online, can encore more people to pay on social platform, which could be dangerous if those payment informations are revealed : in the event of a data breach, users' financial details may be compromised, leading to potential fraud or identity theft. 
+Social commerce platforms collect extensive user data, including browsing history, preferences, and interactions, to create detailed profiles for targeted advertising. Then, they can share this data with third-party advertisers that could increase the risk of unauthorized access or misuse. Some companies use tracking technologies, like cookies to monitor user behavior and analyse it to show more pertinent and personnalised information to eacher user.Social commerce, by facilitating payments online, can encore more people to pay on social platform, which could be dangerous if those payment informations are revealed : in the event of a data breach, users' financial details may be compromised, leading to potential fraud or identity theft. 
 
-### International challenges
-Influence of disinformation on international relations + Manipulation of information for geopolitical purposes nécessité global cooperation to mitigate these risks
+If a large-scale accident linked to online user data were to occur, it would fuel fear and anger among online users, leading to discontent or even uprisings.
+This is especially true given that user data can be enough to endanger a country internationally, among others various reasons.
 
-Theorising digital disinformation in international relations
-la Cour, Christina
-https://link-springer-com.uniessexlib.idm.oclc.org/article/10.1057/s41311-020-00215-x
+### Esclation of tensions and existencial risks
 
-##  Impact on Existing Risks and Areas for Improvement
-### Existing risks
-Escalation of conflicts :
-- **Collective misinformation can lead to mistrust** of institutions, democratic processes and other foundations of society, **resulting in social conflict, political instability and even crisis**
-- the spread of information bubbles **divide communities, make constructive dialogue difficult and compromise society's ability to tackle common challenges**
-- **Trust is essential for institutions, governments and social interactions to function smoothly.** If the population of a country does not trust their governement anymore, its country will no longer be properly managed, either economically or politically. Some groups within the population may also want to overthrow the government they no longer trust, leading to internal conflict and civil war.
-- In the event of an actual war, social media networks can serve as a tool for indirect offensives, encompassing covert media manipulation, dissemination of rumors, provocation of internal conflicts within the targeted party, and the spread of tension and negative emotions(Chen, L., Chen, J. and Xia, C.,2022).
-- 
+Data collection can fuel tensions between countries in a number of ways, particularly in the context of cyber security, surveillance and espionage-related activities.  Governments may conduct cyber espionage operations to collect sensitive data on other nations (economic, political, military and technological information). Discovery of such activities can lead to diplomatic tensions and hostile responses between the countries involved.
+In addition to this, international agreements, such as cybersecurity treaties, can be violated when countries carry out aggressive data collection activities. Such violations can lead to diplomatic disagreements and contribute to the escalation of tensions.
+
+Misinformation has also a significant influence on international relations, contributing to the creation of misunderstandings, tensions and conflicts between nations. The impacts of disinformation include the deliberate dissemination of false information which can sow mistrust between countries, undermining the trust necessary for effective international cooperation. Disinformation campaigns can target global public opinion to influence perceptions and stir up anti-diplomatic sentiment. Information can also be manipulated by institutions for geopolitical purposes, for example to demonise other nations in times of conflict, creating a negative image of the opponent while creating narratives that support their objectives, whether by justifying military action, building alliances or winning international support. The article "Theorising digital disinformation in international relations" by Christina la Cour tells us an interesting story about disinformation : In 2016, a false story of mass sexual assault involving a German teenager, Lisa, claiming to have been assaulted by Arab refugees circulated in Germany. Despite protests from the German people in support of Lisa triggered before the public falsification by the public prosecutor, he eventually denied the story, revealing that the medical examination had found no evidence of sexual assault and also that Lisa had admitted to lying. Suspected of being Russian disinformation aimed at discrediting Angela Merkel, the case provoked strong reactions from German politicians towards Russia. In response, Germany created a strategic communications unit and introduced laws against fake news, highlighting digital disinformation as a major tool in international relations when propagated by ill-intentioned foreign powers.
+
+ **Collective misinformation can lead to mistrust** of institutions , democratic processes and other foundations of society, **resulting in social conflict, political instability and even crisis** within a country itself. The spread of echo chambers on the internet **divide communities, make constructive dialogue difficult and compromise society's ability to tackle common challenges**. **Trust is essential for institutions, governments and social interactions to function smoothly.** If the population of a country does not trust their governement anymore, its country will no longer be properly managed, either economically or politically. Some groups within the population may also want to overthrow the government they no longer trust, leading to internal conflict and civil war.
+In the event of an actual war, social media networks can serve as a tool for indirect offensives, encompassing covert media manipulation, dissemination of rumors, provocation of internal conflicts within the targeted party, and the spread of tension and negative emotions(Chen, L., Chen, J. and Xia, C.,2022).
+
+
+## Conclusion
 ### Areas for improvement and sense-making
 Raising awareness, corporate transparency ,International cooperation to develop common standards for information management
 Sense making: be subjective, look at sources
@@ -91,7 +89,8 @@ Sense making: be subjective, look at sources
 - S;, G.M. (2020) Information and disinformation: Social media in the COVID-19 crisis, Academic emergency medicine : official journal of the Society for Academic Emergency Medicine. Available at: https://pubmed.ncbi.nlm.nih.gov/32474977/ (Accessed: 11 December 2023).
 - Chen, L., Chen, J. and Xia, C. (2022) ‘Social network behavior and public opinion manipulation’, Journal of Information Security and Applications, 64, p. 103060. doi:10.1016/j.jisa.2021.103060.
 - Reisach, U. (2021) ‘The responsibility of social media in times of societal and political manipulation’, European Journal of Operational Research, 291(3), pp. 906–917. doi:10.1016/j.ejor.2020.09.020.
-- Liao, S.-H., Widowati, R. and Hsieh, Y.-C. (2021) ‘Investigating online social media users’ behaviors for Social Commerce recommendations’, Technology in Society, 66, p. 101655. doi:10.1016/j.techsoc.2021.101655. 
+- Liao, S.-H., Widowati, R. and Hsieh, Y.-C. (2021) ‘Investigating online social media users’ behaviors for Social Commerce recommendations’, Technology in Society, 66, p. 101655. doi:10.1016/j.techsoc.2021.101655.
+- la Cour, C. (2020) ‘Theorising Digital Disinformation in international relations’, International Politics, 57(4), pp. 704–723. doi:10.1057/s41311-020-00215-x. 
 
 
 ## Hyperlinks
