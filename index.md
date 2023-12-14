@@ -19,7 +19,7 @@ On top of all this, disinformation can lead to widespread mistrust, undermining 
 
 Misinformation can be countered by actions taken by the media, digital platforms and governments to promote accurate, diverse and transparent information. However, large institutions will sometimes use their power of moderation for their own ends.
 
-### Manipulation of Public Opinion by institutions
+### Manipulation of Public Opinion
 The deployment of technology to influence behaviour has become an integral aspect of modern societies. For example, during the 2016 US presidential elections, foreign entities exploited social media platforms to spread disinformation, sow discord and influence public opinion. 
 
 Social media has been increasingly analysed by a lot of countries for its perceptual management and psychological manipulation, which can be used as a war tool to shape ideas, redesign society, increase sensitivity, and strengthen social responses, ultimately weakening the administration, society, military, or economy of a country.  In 2011, the US Defense Advanced Research Projects Agency published a plan created with the sole aim of improving the digital presence of US forces and supporting them in guiding public opinion in a professional manner (Chen, L., Chen, J. and Xia, C.,2022). The plan dates back more than 10 years and has undoubtedly been perfected over the years thanks to the development of new online social platforms.
@@ -40,7 +40,7 @@ Consider an individual with well-defined political views. If they only follow in
 This polarisation of information can lead to deeper divisions within society, as individuals hold worldviews that are increasingly far apart. This can make constructive dialogue difficult and contribute to growing political and social polarisation.
 
 
-## Control of Information by Companies
+## Control of Information by Insitutions
 ### Power of the technological giants
 Social networks, search engines, and messaging services are all owned by technological giants, such as Google, Facebook, Twitter, etc.
 They have content moderation standards in place to filter material published on their platforms. They can eliminate content that is violent, hateful, or violates the platform's regulations. 
@@ -53,7 +53,6 @@ Sponsored tweets on Twitter, for example, although a legitimate online advertisi
 In general, most users recognise sponsored tweets and don't 'fall' into the trap of just reading them without trying to analyse them. 
 ![tweet1](https://github.com/2300193/CS220AU-DP/assets/148567991/ae87443f-538d-4b83-95f2-23541c978a15)
 ![tweet2](https://github.com/2300193/CS220AU-DP/assets/148567991/9d67b4f5-4817-4fda-9a96-3cf615dfca38)
-
 
 However, as we can see from our two examples, sponsored tweets do provoke strong emotions in some users, such as anger or disgust. Without realising it, people can feed their negative emotions by spending just a little time - and sometimes just a few minutes - on Twitter. This will contribute to the radicalisation of opinions shared on the internet, generating waves of anger towards a government, an institution or a person.
 
@@ -77,7 +76,6 @@ Misinformation has also a significant influence on international relations, cont
 
  **Collective misinformation can lead to mistrust** of institutions , democratic processes and other foundations of society, **resulting in social conflict, political instability and even crisis** within a country itself. The spread of echo chambers on the internet **divide communities, make constructive dialogue difficult and compromise society's ability to tackle common challenges**. **Trust is essential for institutions, governments and social interactions to function smoothly.** If the population of a country does not trust their governement anymore, its country will no longer be properly managed, either economically or politically. Some groups within the population may also want to overthrow the government they no longer trust, leading to internal conflict and civil war.
 In the event of an actual war, social media networks can serve as a tool for indirect offensives, encompassing covert media manipulation, dissemination of rumors, provocation of internal conflicts within the targeted party, and the spread of tension and negative emotions(Chen, L., Chen, J. and Xia, C.,2022).
-
 
 ## Conclusion
 ### Areas for improvement and sense-making
