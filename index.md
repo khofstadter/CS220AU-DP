@@ -40,7 +40,7 @@ Consider an individual with well-defined political views. If they only follow in
 This polarisation of information can lead to deeper divisions within society, as individuals hold worldviews that are increasingly far apart. This can make constructive dialogue difficult and contribute to growing political and social polarisation.
 
 
-## Control of Information by Insitutions
+## Control of Information by Institutions
 ### Power of the technological giants
 Social networks, search engines, and messaging services are all owned by technological giants, such as Google, Facebook, Twitter, etc.
 They have content moderation standards in place to filter material published on their platforms. They can eliminate content that is violent, hateful, or violates the platform's regulations. 
