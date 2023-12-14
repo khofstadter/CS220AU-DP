@@ -23,8 +23,8 @@ Instructions on using this GitHub repository as a template for your assignment w
 
 ## Tasks
 1. refining the list of key words
-2. search for relevant litterature
-3. continue writing a draft
+2. search for more relevant litterature?
+3. Write conclusion + recommendations + proofread what I already wrote
 4. Create visuals (graphs of spectrum, illustrations)
 5. Write a paragraph to explain the visual identity of the project and put it in the overview
    
