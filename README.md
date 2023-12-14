@@ -30,6 +30,7 @@ Instructions on using this GitHub repository as a template for your assignment w
    
 
 ## Log
+- 2023-12-14 Continued writing my essay (Second part and searched for relevant litterature)+ adapted my plan
 - 2023-12-11 Continued writing my essay (introduction and First part)
 - 2023-12-05 Started writing some parts of my drafts + other references
 - 2023-12-03 Started writing my plan on my index page + looked for keywords
