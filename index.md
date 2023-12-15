@@ -1,9 +1,8 @@
 # The dangers of our information ecosystem
-**Keywords** 
-Digital identities, existencial risks, mass communication, sense-making, manipulation, institution, behaviour, social media, disinformation, echo chambers
+**Keywords**: digital identities, existencial risks, mass communication, sense-making, manipulation, institution, behaviour, social media, disinformation, echo chambers
   
 ## Introduction
-Whether in our time or in the past, our behaviour has always been influenced by external factors, like the environment in which we live, the people around us, etc. Various entities such as companies, media outlets, and governments have the ability to shape our decision-making and discourage independent thought. The problem today is that since the invention of mass communication (the press, television), and then the Internet, these external players are increasingly omnipresent in our lives, whether we are aware of it or not, and have a major influence on the decisions we make. 
+Whether in our time or in the past, our behaviour has always been influenced by external factors, like the environment in which we live, the people around us, etc. Various entities such as companies, media outlets, and governments have the ability to shape our decision-making and discourage independent thought. The problem today is that since the invention of mass communication (the press, television), and then the Internet, these external players are increasingly omnipresent in our lives, whether we are aware of it or not, and have a major influence on the decisions we make.
 
 So we can then ask ourselves : How does today’s mass communication, boosted by technology leads to existential risks? How can we be more aware of what information are thrown at us by companies, governments, and medias?
 
