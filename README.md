@@ -30,8 +30,9 @@
 2. Start writing draft (Introduction)
 3. Solve my questions in the next class
    - How do I submitt this work?
+     → just download checklist.md?
    - How manhy words?
-   - References
+   - References; put the link, harvard
    - still don't find a partner 
 
 
