@@ -19,7 +19,7 @@
 3. synthesize them
 4. publish the result
 
-## Overview
+## Resources
 
 **[Paraphrasing](https://quillbot.com/)**
 **[grammar checking](https://quillbot.com/grammar-check)**
@@ -31,13 +31,21 @@
 3. Solve my questions in the next class
    - How do I submitt this work?
      → just download checklist.md?
-   - How manhy words?
+   - How many words?
    - References; put the link, harvard
-   - still don't find a partner 
+   - a partner 
 
 
 ## Log
-2023-12-01 w9 progress, chat gpt
+2023-12-15 w11 
+
+2023-12-14 Introduction (need to find some academic articles)
+
+2023-12-13 made tasks, other files (I couldn't make correctly)
+
+2023-12-08
+
+2023-12-01 w9 speaking about my progress, chat gpt
 
 2023-11-24 w8 no class
 
