@@ -99,12 +99,12 @@ Students are first asked to discuss where they feel most of their activity is on
 3. How can I use my DI to effectively communicate my research findings on an ER to others?
 4. How can I assist others in improving their DIs for effective communication of their findings or our collective findings?
 5. What techniques can be used to measure the effectiveness of my DI in understanding an ER?
-6. Are there any common obstacles to enhancing DI, and how can they be overcome?
+6. Are there any common obstacles to enhancing DIs, and how can they be overcome?
 
 
 **Demographics and DI Usage**
 
-1. Is there a difference in how various demographic groups (e.g., generations, cultures, geopolitical locations) use their DIs in consuming and sharing ideas about ERs? How does this relate to sensemaking?
+1. Is there a difference in how various demographic groups (e.g., generations, cultures, geopolitical locations) use their DIs in consuming and sharing ideas about ERs? How does this relate to sensemaking, critical thinking?
 2. Are there observable trends in DI usage over time within these demographic groups?
 
 
@@ -135,6 +135,10 @@ Students are first asked to discuss where they feel most of their activity is on
 ## Conclusion
 ### Recommendations
 Based on what I have learned while doing the research for this paper these are my recommendations for teachers and students: 
+
+1. example one
+2. example two 
+3. ...
 
 ### Next Steps
 My next steps to further develop this module are 
