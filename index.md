@@ -5,7 +5,7 @@ Keywords: tech companies, digital identities, existential risks, tracking data, 
 
 
 ## Introduction
-Today, data has become so big that it cannot be separated from our lives. We access a wide range of data every day, whether on social networking sites, where it is essential to communicate with others, or simply to find out what we don't know, or to make a travel booking.　When we access data, we are also providing our own data. In this blog, we will explore what data tech companies collect about us and how they collect it. It also explores what their intentions are for collecting those data, and then shows the impact they have on us in doing so (in this case, the beneficial impact and extensional risks they pose to us).
+Today, data has become so big that it cannot be separated from our lives. We access a wide range of data every day, whether on social networking sites, where it is essential to communicate with others, or simply to find out what we don't know, or to make a travel booking.　When we access data, we are also providing our own data. In this blog post,I will explore what data tech companies collect about us and how they collect it. It also explores what their intentions are for collecting those data, and then shows the impact they have on us in doing so (in this case, the beneficial impact and extensional risks they pose to us).
 
 **Digital Identities**
 
