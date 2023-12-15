@@ -25,8 +25,8 @@ Instructions on using this GitHub repository as a template for your assignment w
 1. refining the list of key words
 2. search for more relevant litterature?
 3. Write conclusion + recommendations + proofread what I already wrote
-4. Create visuals (graphs of spectrum, illustrations)
-5. Write a paragraph to explain the visual identity of the project and put it in the overview
+4. Create a visual for the banner of the index
+5. Write a paragraph to explain the essay and put it in the overview
    
 
 ## Log
