@@ -30,8 +30,8 @@
 2. Start writing draft (Introduction)
 3. Solve my questions in the next class
    - How do I submitt this work?
-     → just download checklist.md?
-   - How many words?
+     → just download checklist.md?: rename (student number)
+   - How many words?; at least 2000 words
    - References; put the link, harvard
    - a partner 
 
