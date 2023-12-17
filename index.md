@@ -12,7 +12,7 @@
 
 [Krisztián Hofstädter](https://krishofstadter.com/)
 
-Last updated on 15 Dec 2023
+Last updated on 17 Dec 2023
 
 <p style="background-color: #f0f0f0; color: #333;">Note: This article is not yet finished. Similarly to the <a href="https://navigatingthedigitalworld.com/" style="color:#0066cc;">module's main website</a>, it's also in progress. I am <a href="https://github.com/khofstadter/CS220AU-DP/commits/main/index.md" style="color:#0066cc;">sharing the writing process</a> step-by-step as a teaching method. My primary goal with this is not to complete a piece of writing but to demonstrate the evolution of thoughts, edits, and improvements along the way.</p>
 
@@ -26,7 +26,7 @@ Acronyms and abbreviations:
 - artificial intelligence (AI)
 
 ## Introduction
-Before I started teaching the Autumn part of the Navigating the Digital World module in 2021 (the CS220AU) at the University of Essex, the module primarily looked at the field of digital identities (DIs) and the digital world (e.g., password management, CV enhancements, the use of certain software and hardware for content production, the visitor and resident map <!-- what else?-->).
+Before I started teaching the Autumn part of the Navigating the Digital World module in 2021 (the CS220AU) at the University of Essex, the module primarily looked at the field of digital identities (DIs) and the digital world (e.g., password management, CV enhancements, the use of certain software and hardware for content production, the visitor and resident map<!-- what else?-->).
 
 <!-- explain that AU is more practical and SP more theoretical? -->
 
@@ -38,7 +38,7 @@ To make the module more in line with my own expertise and interests and more eng
 
 My first cohorts in 2021 were allowed to develop their websites with any website builder (e.g., [WordPress](https://wordpress.org/), [GitHub Pages](https://pages.github.com/), [Wix](https://www.wix.com/)) and populate them with whatever content they thought could help showcase their professional identities (e.g., CVs, portfolios, artistic work, blog posts). <!-- I could help them with WordPress and GitHub Pages. Actually, they all had to have a GitHub account, but the website didn't have to be on GitHub. -->
 
-In 2022, I refined the assignment and asked students to only develop websites with GitHub Pages, which helped produce more consistent portfolios across the cohort <!-- which then is easier to mark -->, allowed me to better monitor the development of these websites via students' GitHub repositories and develop students understanding of the very basics of how websites are built; with code. Furthermore, to make the module more timely, I asked them to produce content for their websites that links DIs and existential risks (ERs). Their content could either reflect on all the links they found or on one more specifically. Inspired by the decolonizing of the curriculum movement<!-- it's not a movement, what is it --> [^Arshad2021], I thought existential risks were also important, if not more important matters, of which students should be aware.
+In 2022, I refined the assignment and asked students to only develop websites with GitHub Pages, which helped produce more consistent portfolios across the cohorts<!-- which then is easier to mark -->, allowed me to better monitor the development of these websites via students' GitHub repositories and develop students understanding of the very basics of how websites are built; with code. Furthermore, to make the module more timely, I asked them to produce content for their websites that links DIs and existential risks (ERs). Their content could either reflect on all the links they found or on one more specifically. Inspired by the decolonizing of the curriculum movement<!-- it's not a movement, what is it --> [^Arshad2021], I thought existential risks were also important, if not more important matters, of which students should be aware.
 
 [^Arshad2021]: Arshad, Rowena 2021 Decolonising the curriculum – how do I get started? Published in [Times Higher Education](https://www.timeshighereducation.com/campus/decolonising-curriculum-how-do-i-get-started).
 
@@ -49,13 +49,13 @@ After outlining how the module 'evolved in my hands', I will
 2. outline how we have been DIs to ERs
 
 ## Progress = happiness
-### Log, task lists, commit history, weekly student updates, workshops
-Keeping track of each other's work via logs, task lists in students' public repositories, and weekly updates at the start of each class is important for several reasons. This practice keeps us accountable. We have got to do our work and if we don't people will see, it's just like in a real-world environment. Also, this practice encourages transparency and collaborative skills (e.g. they are encouraged to help each other), which is a key aspect of teamwork. For the teachers, me, this practice allows me to see which student needs help and where (e.g. does a student need more technical support with content production or support with theory or overall research methodology). Seeing the progress of each other's work should boost students' motivation and engagement with the assignment. 
+### APM, log and task lists, commit history, weekly student updates, workshops
+Keeping track of each other's work via log and task lists in our GitHub repositories, and weekly updates at the start of each class is important for several reasons. This practice keeps us accountable. We have got to do our work and if we don't people will see, it's just like in a real-world environment. Also, this practice encourages transparency and collaborative skills (e.g. they are encouraged to help each other), which is a key aspect of teamwork. For the teachers, me, this practice allows seeing which student needs help and where. For instance, does a student need more technical support with content production or support with theory and overall research methodology? Seeing the progress of each other's work should boost students' motivation and engagement with the assignment. 
 
-At ARU, I got used to syllabuses starting with weekly lectures and seminars and ending with three weeks of workshops, in which the focus is on understanding how students progressed so far and how the teacher can help untangle issues together with the group or individually with students. This time is (or should be!) very special. <!-- reference to Richard, CMT, ARU -->
+When I was a students, some of my best modules had syllabuses starting with weekly lectures and seminars and ending with three weeks of workshops. These workshops focused on understanding how we students progressed and how the teachers could best help untangle issues together with the cohort or individually with students. This time was very special and hence I adopted this method in my own teaching everywhere I thought since<!-- reference to Richard, CMT, ARU -->.
 
 ## Linking the Fields
-I certainly have an interest in both fields, but since I am trained as a creative technologist (I recently got a PhD in developing brain-computer music interfaces for meditation and have been producing audio-visual content as well as websites for decades), and not as an existential risk 'person<!-- find a better word -->', my expertise lies more in the field of the digital world and not in existential risks. So one might ask, "Why then are you teaching existential risks?" Well, I don't. My syllabus focuses on making sure students understand what DIs are primarily through White and Le Cornu's Visitors and Residence method [^DaveWhite2017] and then provides both academic research frameworks for students to first immerse in both domains (DI and ER) and their intersections<!-- APM--> and professional content production skills <!-- GitHub, Markdown, writing and audio-visual --> to then engage with these intersections.<!-- I distinguish between these two -->  <!-- What are the A/Ds of not being an expert in existential risks? Do the disadvantages make me feel uncomfortable? -->
+I certainly have an interest in both fields. However, since I am trained as a creative technologist (I recently earned a PhD in developing brain-computer music interfaces for meditation and have been producing audio-visual content and websites for decades), and not as an expert in ERs, my background lies more in the digital world than in ERs. One might ask, "Why then are you teaching existential risks?" The truth is, I don't. My syllabus focuses on ensuring students understand what DIs are, primarily through White and Le Cornu's Visitors and Residence method[^DaveWhite2017]. It then provides academic research frameworks for students to immerse themselves in both domains (DI and ER) and their intersections. Additionally, it equips them with professional content production skills<!-- GitHub, Markdown, writing and audio-visual --> to engage with these intersections. Although my syllabus does not directly teach ER, it does include an extensive list of recommended literature. The idea behind this approach is to encourage students to learn independently and become more effective at self-directed work.
 
 [^DaveWhite2017]: White, Dave and Alison Le Cornu 2017 Using ‘Visitors and Residents’ to visualise digital practices. Available online at [First Monday](https://firstmonday.org/ojs/index.php/fm/article/view/7802). 
 
@@ -84,16 +84,14 @@ Students are first asked to discuss where they feel most of their activity is on
 
 
 ### How to find the links between these domains?
-1. who made connections already (i.e. literature review) ?
-2. how can we find more connections (e.g. via the use our own evolving list of keywords and by highlighting not-well-known connections or perhaps making new ones)?
-3. how shall students choose a connection to focus on for the assignments? <!-- they should find something they are interested in, as this interest will (or should) help create a momentum/drive to progress with the assignment. -->
-4. how could we draft a visual representation of the two fields that could help understand connections?
+1. Set up an evolving list of keywords and research the literature. This step is crucial in any research process. By setting up a list of keywords, you are defining the scope of your research. This can help guide your search for relevant literature and ensure that you are exploring all possible areas related to your topic.
+
+2. Choose a connection that you are interested in (this might be based on a feeling), something you personally would like to better understand, something that would enrich your own life. Adding this personal connection to your research will help you maintain the drive needed to carry on your research. Choosing a connection that interests you can make the research process more enjoyable and motivating. It's always easier to stay dedicated to something that you find personally enriching. But, be careful, personal interest can lead to bias, which could affect the objectivity of the research.
 
 ### Ideas for research questions and objectives
 <!-- add ideas explore by students in 2022/23 -->
 
 **Understanding and Improving DI**
-
 1. How is my DI (or are my DIs) linked to an ER in both visiting and resident modes?
 2. How can I enhance my professional DI to better understand an ER?
 3. How can I use my DI to effectively communicate my research findings on an ER to others?
@@ -101,35 +99,28 @@ Students are first asked to discuss where they feel most of their activity is on
 5. What techniques can be used to measure the effectiveness of my DI in understanding an ER?
 6. Are there any common obstacles to enhancing DIs, and how can they be overcome?
 
-
 **Demographics and DI Usage**
-
 1. Is there a difference in how various demographic groups (e.g., generations, cultures, geopolitical locations) use their DIs in consuming and sharing ideas about ERs? How does this relate to sensemaking, critical thinking?
 2. Are there observable trends in DI usage over time within these demographic groups?
 
-
 **DI in Popular Culture and Geopolitics**
-
 1. How have the links between DIs and ERs been represented in popular culture, such as science fiction literature or films?
 2. How is warfare linked to ERs and DIs, especially in the context of current geopolitical situations (e.g., Palestine, Ukraine, etc.)?
 3. How have perceptions of DIs and their links to ERs changed over time, particularly in response to global events?
 4. Can popular culture influence the development and use of DIs to communicate ERs more effectively, and if so, how?
 
-
 **The Impact of DI Energy Consumption and Perception**
-
 1. What is the relationship between DIs, energy consumption, and ERs? 
 2. How does engaging in war games using our DIs influence our perception of information on current wars presented in the media?
 3. Are there ways to minimize the energy consumption of DIs without compromising their effectiveness?
 4. How does the energy consumption of DIs impact their accessibility and usability?
 
-
 **Misinformation and DI**
-
 1. What are the links between DIs and misinformation, and how can this connection escalate ERs?
 2. What strategies can be employed to combat misinformation spread through DIs?
 3. How can users of DIs be educated about the risks and realities of misinformation?
 
+More examples can be found in the [22/23 submissions](https://github.com/khofstadter/CS220AU-DP/forks). 
 
 
 ## Conclusion
