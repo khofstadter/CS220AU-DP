@@ -3,7 +3,7 @@
 
 How can psychedelic music be linked to AI?
 17 November 2023
-Key words:
+Key word:
 India, Canada, artificial intelligence, etc.
 
 
