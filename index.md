@@ -7,6 +7,19 @@ Keywords: tech companies, digital identities, existential risks, tracking data, 
 ## Introduction
 Today, data has become so big that it cannot be separated from our lives. We access a wide range of data daily, such as viewing Instagram posts, posting photos or comments on social networking sites, communicating with others, and researching things we don’t know about on websites. When we access data, we are also providing our own data to those website, platforms, and tech companies. In this blog post, I will explore what data tech companies collect and when and how they collect them. It also explores their intentions for collecting those data and then shows the impact they have on us in doing so(in this case, the beneficial impact and extensional risks they pose to us).
 
+## The impact of tech companies on society
+
+## Data collection;Why, when, and how
+
+## Methods of data collection
+
+## Digital identities
+
+## The impact on individuals
+
+
+
+
 ## Explain about digital identities and extential risks
 **Digital Identities**
 
@@ -46,7 +59,7 @@ A footnote can also have multiple lines[^2].
 
 ## Conclusion
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lfPJ7Tz4JGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## References
 Make sure you check out the [Markdown language](https://guides.github.com/features/mastering-markdown/) guide. 
