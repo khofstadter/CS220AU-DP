@@ -31,11 +31,9 @@ According to the Harvard Business School online, there are seven data collection
 How such data is used depends on the type of business. There are **two main reasons** to collect our data. The first is to **maintain and improve their services** that they provide to users. Secondly, to **personalise advertising and contact for users**. Technology companies can offer personalised advertising by using collecting data. Collecting data has an important role in business. The data which they collect can be used to improve their strategies and generate new profits. For example, Google collects and stores most of our data because it depends on knowing as much as possible to make access easier.
 
 
- 
-
-
 ## Digital identities
 ![image](https://github.com/2300260/CS220AU-DP/blob/main/assets/img/Digital%20identity.png)
+Digital identities is a representation of who we are. This includes account names, access data and other important user's specific information. As mentioned above, companies are collecting data, which they collect based on our digital identity.
 
 ## Problems with privacy policies and cookie consent
 According to a Pew Research Center survey[^8], only 9 % of Americans say they always read a company’s privacy policy before agreeing to its terms of service, and more than a third (36%) never read the privacy policy before agreeing. Although this study only included Americans, it is not limited to Americans. It would take too long to read and agree to all the privacy policies and cookies that appear when you open a website, and some websites even require you to agree before you can continue reading. Some people may even have to press consent as a normal part of the process since all websites appear these days.
