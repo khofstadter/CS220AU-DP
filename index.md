@@ -30,9 +30,7 @@ Recently, any web page that we visit will ask us to agree on essential cookies a
 
 
 
-## Explain about digital identities and extential risks
-**Digital Identities**
-
+## Extential risks by collecting data
 **Extential Risks**
 
 - How do they use our data?
@@ -45,6 +43,15 @@ Recently, any web page that we visit will ask us to agree on essential cookies a
 - health
 - cultural values
 - could be bad effected to environment
+One of the exponential risks of tech companies collecting data from users. One of these risks is that the conditions of consent are well established in the sense that researchers cannot make sure that the users have read the information of the consensual use of the user's personal information in their data collection (Convery & Cox. 2012; Kanuka & Anderson. 2008; Zimmer. 2010, referenced in Clark et al. 2018, pp.63-64).
+
+In terms of privacy, if the data is being published in a public domain, more information is being collected than may think. For example, Clark et al. (2018, p.64) mention that a tweet consisting 140 characters consists of metadata that includes the precise location of the tweet being made, the user information, and what device it was sent from. If we take this into perspective whenever we make a tweet or a post on the public domain, there is an existential risk of personal information being leaked.
+
+As mentioned above, the existential risk from data collection is the processing of the user's privacy. Keymolan (2022, pp.3-4) explains that a desired initiative to signal trustworthiness is by ''staying close to current data ethic design strategies, explainability as a key design value in AI applications''. In an article written by Clark et al. (2018), several of these strategies were raised, one of them being transparency. Transparency explains how the data has been collected, but also the reason for the data collection and the safeguards that protect the privacy of the users (Clark 2015. p.21, referenced in Clark et al. 2018. p.69). 
+
+As shown in the Data collection part, one of the reasons tech companies collect user data is because they want to personalize advertising and content or measure the performance of ads which the tech giant Google does (Vigerman & Turner, 2023). This strategy is further raised in Keymolan (2022, pp.3-4) where she explains that despite the simple explainability of complex information and processes needs to be understandable for people, explainable should, however, also be to the context of users (Millers, 2019, referenced in Keymolan, 2022, pp. 3-4).
+
+
 
 
 
