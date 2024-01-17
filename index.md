@@ -1,8 +1,6 @@
 # HOW Can Psychedelic music be linked to AI?
-14 January 2023
+17 november 2023
 
-How can psychedelic music be linked to AI?
-15 January 2023
 Key words:automation,artificial intelligence, remote work and music social media, Music and Artificial Intelligence, AI-driven Music CompositionEfficiency in Music, Production Personalized Music Experiences etc.
 
 ![](https://github.com/2314307/CS220AU-DP/blob/main/assets/img/645aadd22ed680cf8352ebdb_the-ai-driven-future-of-music-production-embracing-new-possibilities.jpg)
