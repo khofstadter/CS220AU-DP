@@ -35,7 +35,7 @@ Technology companies can offer personalised advertising by using collecting data
 
 
 ## Digital identities
-
+![image](https://github.com/2300260/CS220AU-DP/blob/main/assets/img/Digital%20identity.png)
 
 ## Problems with privacy policies and cookie consent
 According to a Pew Research Center survey[^8] , only 9 % of Americans say they always read a company’s privacy policy before agreeing to its terms of service, and more than a third (36%) never read the privacy policy before agreeing. Although this study only included Americans, it is not limited to Americans. It would take too long to read and agree to all the privacy policies and cookies that appear when you open a website, and some websites even require you to agree before you can continue reading. Some people may even have to press consent as a normal part of the process since all websites appear these days.
