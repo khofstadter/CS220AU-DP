@@ -44,6 +44,8 @@ Using the marking rubric, I've assessed my own progress: <!-- move the symbols i
 | 2.2       |     |     |     |  o  |     |
 | 3.1       |     |  o  |     |     |     |
 
+I enjoyed writing this blog because I could write what I wanted to know more about this topic and I could know now. I would say it is a good structure for this essay. If I put it directly on GitHub, it would be difficult to read and correct, so I first wrote it in Word and then copied it to GitHub. However, I should have started earlier because this one is more than just an essay we need to put this to GitHub. Once I learned how to bold, incorporate images, include references, etc., I could proceed easily.
+
 ## Peer-assessment
 Another student in my group provided feedback on my work as follows: <!-- move the symbols in the table below -->
 
