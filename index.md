@@ -63,6 +63,7 @@ As shown in the Data collection part, one of the reasons tech companies collect 
 
 
 ## References
+
 [^3]: Kim, C., Taylor, R. & Rohde, K. (2022). [Data Privacy Through the Lens of Big Tech. The Regulatory Review.](https://www.theregreview.org/2022/03/12/saturday-seminar-data-privacy-through-lens-big-tech/). The Regulatory Review.
 [^5]: Fowler, G. (2022). [I tried to read all my app privacy policies. It was 1 million words](https://www.washingtonpost.com/technology/2022/05/31/abolish-privacy-policies/). Washington Post.
 [^6]: Calver, T & Miller. J. (2018). [What tech giants really do with your data](https://www.bbc.co.uk/news/business-44702483). BBC News. 
@@ -70,8 +71,7 @@ As shown in the Data collection part, one of the reasons tech companies collect 
 [^2]: Keymolen, E. (2023). Trustworthy tech companies: talking the talk or walking the walk? AI and Ethics. doi:https://doi.org/10.1007/s43681-022-00254-5.
 [^4]: Vigderman, A. & Turner, G. (2023). [The Data Big Tech Companies Have On You](https://www.security.org/resources/data-tech-companies-have/). Security.org. 
 [^7]: Miller, T.C. and J. (2018). [Social site terms tougher than Dickens](https://www.bbc.co.uk/news/business-44599968). BBC News. 
-
-‌[^8]: Auxier, B., Rainie, L., Anderson, M., Perrin, A., Kumar, M. & Turner, E. (2019). [4. Americans’ attitudes and experiences with privacy policies and laws](https://www.pewresearch.org/internet/2019/11/15/americans-attitudes-and-experiences-with-privacy-policies-and-laws/). Pew Research Center.
+[^8]: Auxier, B., Rainie, L., Anderson, M., Perrin, A., Kumar, M. & Turner, E. (2019). [4. Americans’ attitudes and experiences with privacy policies and laws](https://www.pewresearch.org/internet/2019/11/15/americans-attitudes-and-experiences-with-privacy-policies-and-laws/). Pew Research Center.
 ‌
 ‌
 
