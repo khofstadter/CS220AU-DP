@@ -25,25 +25,17 @@ Recently, any web page that we visit will ask us to agree on essential cookies a
 
 ## Digital identities
 
-## The impact on individuals
+
+## Problems with privacy policies and cookie consent
+According to a Pew Research Center survey (https://www.pewresearch.org/internet/2019/11/15/americans-attitudes-and-experiences-with-privacy-policies-and-laws/), only 9 % of Americans say they always read a company’s privacy policy before agreeing to its terms of service, and more than a third (36%) never read the privacy policy before agreeing. Although this study only included Americans, it is not limited to Americans. It would take too long to read and agree to all the privacy policies and cookies that appear when you open a website, and some websites even require you to agree before you can continue reading. Some people may even have to press consent as a normal part of the process since all websites appear these days.
+>As well as using complex language, the BBC found that reading the terms of 15 popular sites would take almost nine hours in total.
 
 
 
+## Existential risks by collecting data
 
-## Extential risks by collecting data
-**Extential Risks**
 
-- How do they use our data?
-- what is the purpose to correct them
-- How and what kind of data do they track?(vpnMentor)
-- Do existential risks differ depending on positioning(VR mapping)?
-
-**what kind of Extential risks**
-- privacy
-- health
-- cultural values
-- could be bad effected to environment
-One of the exponential risks of tech companies collecting data from users. One of these risks is that the conditions of consent are well established in the sense that researchers cannot make sure that the users have read the information of the consensual use of the user's personal information in their data collection (Convery & Cox. 2012; Kanuka & Anderson. 2008; Zimmer. 2010, referenced in Clark et al. 2018, pp.63-64).
+One of the existential risks of tech companies collecting data from users. One of these risks is that the conditions of consent are well established in the sense that researchers cannot make sure that the users have read the information of the consensual use of the user's personal information in their data collection (Convery & Cox. 2012; Kanuka & Anderson. 2008; Zimmer. 2010, referenced in Clark et al. 2018, pp.63-64).
 
 In terms of privacy, if the data is being published in a public domain, more information is being collected than may think. For example, Clark et al. (2018, p.64) mention that a tweet consisting 140 characters consists of metadata that includes the precise location of the tweet being made, the user information, and what device it was sent from. If we take this into perspective whenever we make a tweet or a post on the public domain, there is an existential risk of personal information being leaked.
 
@@ -62,7 +54,6 @@ As shown in the Data collection part, one of the reasons tech companies collect 
 
 Below you see an example of embedding an image that is found in another repository:
 
-![](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-chien.jpg). 
 
 Here is a simple footnote[^1].
 
