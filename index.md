@@ -15,7 +15,12 @@ Tech companies have a wide range of impacts on the society that affect many aspe
 In this way, tech companies are collecting and tracking our data. Here is one question. **How much and what kind of data do these companies track?** We will explore this in the following text.
 
 ## Data collection
-Recently, any web page that we visit will ask us to agree on essential cookies and privacy policy and need to choose whether we accept all cookies or not. By clicking 'Yes' or 'Agree' at the end of the privacy policy that appears when you open a web page, we allow companies to collect our data. By agreeing to these, big tech companies can collect data as wide-ranging as our location, personal information, search history, online purchase history, and emails that have been sent and received. How such data is used depends on the type of business, but in many cases, it is used to display targeted advertising and to manage websites.
+Recently, any web page that we visit will ask us to agree on essential cookies and privacy policy and need to choose whether we accept all cookies or not. By clicking 'Yes' or 'Agree' at the end of the privacy policy that appears when you open a web page, we allow companies to collect our data. 
+### What kind of data and how do they collect?
+By agreeing to these, big tech companies can collect data as wide-ranging as our location, personal information, search history, online purchase history, and emails that have been sent and received. How such data is used depends on the type of business, but in many cases, it is used to display targeted advertising and to manage websites. The data companies are collecting is not only personal data such as name, date of birth, and email address but may also use image recognition and voice recognition to capture a user's appearance. According to [Clario](https://clario.co/blog/which-company-uses-most-data/), Airbnb, Instagram, Meta, and TikTok have the option to store photos of faces. Additionally, Twitter, Spotify, and Clubhouse, among others, use voice recognition.
+These image and voice recognition requires access to the entire image libraries within the app, and accessing them can provide personalised advertising that is more tailored to the user's interests and behaviour.
+
+
 
 
 ### What kind of data
