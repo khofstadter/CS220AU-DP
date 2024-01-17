@@ -14,9 +14,12 @@ Tech companies have a wide range of impacts on the society that affect many aspe
 
 In this way, tech companies are collecting and tracking our data. Here is one question. **How much and what kind of data do these companies track?** We will explore this in the following text.
 
-## Data collection;Why, when, and how
+## Data collection
 Recently, any web page that we visit will ask us to agree on essential cookies and privacy policy and need to choose whether we accept all cookies or not. By clicking 'Yes' or 'Agree' at the end of the privacy policy that appears when you open a web page, we allow companies to collect our data.
 
+### What kind of data
+
+### how do they collect
 
 ## Methods of data collection
 
