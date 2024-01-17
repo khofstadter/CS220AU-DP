@@ -18,6 +18,9 @@ In this way, tech companies are collecting and tracking our data. Here is one qu
 
 ## Data collection
 Recently, any web page that we visit will ask us to agree on essential cookies and privacy policy and need to choose whether we accept all cookies or not. By clicking 'Yes' or 'Agree' at the end of the privacy policy that appears when you open a web page, we allow companies to collect our data. 
+![image](https://github.com/2300260/CS220AU-DP/blob/main/assets/img/world%20data.png)
+Photo by [iStock](https://www.istockphoto.com/search/2/image?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fja%2Fs%2F%25E5%2586%2599%25E7%259C%259F%2Fdata-world&utm_medium=affiliate&utm_source=unsplash&utm_term=data+world%3A%3A%3A&alloweduse=availableforalluses&excludenudity=true&mediatype=photography&phrase=data+world&sort=best) 
+
 ### What kind of data and how do they collect?
 By agreeing to these, big tech companies can collect data as wide-ranging as our location, personal information, search history, online purchase history, and emails that have been sent and received. How such data is used depends on the type of business, but in many cases, it is used to display targeted advertising and to manage websites. The data companies are collecting is not only personal data such as name, date of birth, and email address but may also use image recognition and voice recognition to capture a user's appearance. According to [Clario](https://clario.co/blog/which-company-uses-most-data/), Airbnb, Instagram, Meta, and TikTok have the option to store photos of faces. Additionally, Twitter, Spotify, and Clubhouse, among others, use voice recognition.
 These image and voice recognition requires access to the entire image libraries within the app, and accessing them can provide personalised advertising that is more tailored to the user's interests and behaviour. Major social media platforms such as Snapchat and Instagram track location and contact information across apps; Apple consistently tracks user location and contact information throughout apps such as Safari, Photos, Weather, Maps, and Messages. While it is also possible for users to refuse such location information, many apps ask for permission to track their exact location through the mobile phone's global positioning system. However, even if you refuse the app's permission, the app can still learn your location. For example, Facebook collects location-related data apart from the mobile phone's GPS, and these data can track a user's whereabouts through their IP address. In addition, Twitter 'requests' information about the user's current location. This information is obtained from signals such as IP addresses and device settings.[^6]
@@ -45,15 +48,6 @@ In terms of privacy, if the data is being published in a public domain, more inf
 As mentioned above, the existential risk from data collection is the processing of the user's privacy. Keymolan[^2] explains that a desired initiative to signal trustworthiness is by ''staying close to current data ethic design strategies, explainability as a key design value in AI applications''. In an article written by Clark et al.[^1], several of these strategies were raised, one of them being transparency. Transparency explains how the data has been collected, but also the reason for the data collection and the safeguards that protect the privacy of the users[^1]. 
 
 As shown in the Data collection part, one of the reasons tech companies collect user data is because they want to personalize advertising and content or measure the performance of ads which the tech giant Google does.[^4] This strategy is further raised in Keymolan where she explains that despite the simple explainability of complex information and processes needs to be understandable for people, explainable should, however, also be to the context of users.[^2]
-
-
-
-
-
-## Body
-
-
-![image](https://github.com/2300260/CS220AU-DP/blob/main/assets/img/this%20is%20my%20best%20photo.jpg)
 
 
 
