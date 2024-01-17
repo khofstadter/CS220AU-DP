@@ -3,8 +3,8 @@
 
 How can psychedelic music be linked to AI?
 17 November 2023
-Key word:
-India, Canada, artificial intelligence, etc.
+Key words:
+automation,artificial intelligence, remote work and music social media, Music and Artificial Intelligence, AI-driven Music CompositionEfficiency in Music, Production Personalized Music Experiences etc.
 
 ## Indroduction
 In the ever-evolving scene of human inventiveness and mechanical progression , unforeseen crossing points frequently allow rise to groundbreaking developments . One such charming joining lies at the intersection of Hallucinogenic music and Counterfeit Insights AI , where the ethereal sounds of the 1960s meet the cutting edge calculations of the 21st century. As we dig into the domains of consciousness expanding tunes and the boundless conceivable outcomes of machine insights , a captivating travel unfurls , advertising a see into the advantageous relationship between Hallucinogenic music and AI.
