@@ -6,6 +6,8 @@ Keywords: Data, Collecting data, Tech companies, Digital identities, Existential
 
 
 ![image](https://github.com/2300260/CS220AU-DP/blob/main/assets/img/data%20tracking.jpg)
+Photo by [Unsplash](https://unsplash.com/ja/s/%E5%86%99%E7%9C%9F/data-tracking)
+
 Today, data has become so big that it cannot be separated from our lives. Data is being generated at a very fast pace. Statista predicts that the amount of total data (the volume of data/information created, captured, copied, and consumed worldwide) will reach 64.2 zettabytes in 2020 and increase to over 180 zettabytes by 2025. One zettabyte is approximately one billion terabytes. So, it indicates a very large amount of data is generated. We access a wide range of data daily, such as viewing Instagram posts, posting photos or comments on social networking sites, communicating with others, and researching things we don’t know about on websites. When we access data, we are also providing our own data to those websites and tech companies. In this blog post, I will explore what data tech companies collect and when and how they collect them. It also explores their intentions for collecting those data and then shows the impact they have on us in doing so (in this case, the beneficial impact and extensional risks they pose to us).
 
 ## The impact of tech companies on society
