@@ -1,11 +1,11 @@
 # What impact can tech companies have on society and us?
+## What data are technology companies collecting about us and how?
 17 Nov 2023
 
 Keywords: Data, Collecting data, Tech companies, Digital identities, Existential risks, Tracking data, Personal information
 
 
-
-## Introduction
+![image](https://github.com/2300260/CS220AU-DP/blob/main/assets/img/data%20tracking.jpg)
 Today, data has become so big that it cannot be separated from our lives. Data is being generated at a very fast pace. Statista predicts that the amount of total data (the volume of data/information created, captured, copied, and consumed worldwide) will reach 64.2 zettabytes in 2020 and increase to over 180 zettabytes by 2025. One zettabyte is approximately one billion terabytes. So, it indicates a very large amount of data is generated. We access a wide range of data daily, such as viewing Instagram posts, posting photos or comments on social networking sites, communicating with others, and researching things we don’t know about on websites. When we access data, we are also providing our own data to those websites and tech companies. In this blog post, I will explore what data tech companies collect and when and how they collect them. It also explores their intentions for collecting those data and then shows the impact they have on us in doing so (in this case, the beneficial impact and extensional risks they pose to us).
 
 ## The impact of tech companies on society
@@ -14,10 +14,9 @@ Tech companies have a wide range of impacts on the society that affect many aspe
 
 In this way, tech companies are collecting and tracking our data. Here is one question. **How much and what kind of data do these companies track?** We will explore this in the following text.
 
-
-
-
 ## Data collection;Why, when, and how
+Recently, any web page that we visit will ask us to agree on essential cookies and privacy policy and need to choose whether we accept all cookies or not. By clicking 'Yes' or 'Agree' at the end of the privacy policy that appears when you open a web page, we allow companies to collect our data.
+
 
 ## Methods of data collection
 
