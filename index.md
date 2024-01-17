@@ -113,6 +113,7 @@ The best way to progress is, obviously, to first understand what DIs and ERs are
 The VR map: 
 
 ![](assets/img/vr-map-plain.svg)
+![](https://github.com/2314307/CS220AU-DP/blob/main/assets/img/vr-map-2023.png)
 
 
 #### Existential Risks (ER)
