@@ -38,10 +38,10 @@ Using the marking rubric, I've assessed my own progress: <!-- move the symbols i
 
 | Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
 |-----------|:---:|:---:|:---:|:---:|:---:|
-| 1.1       |     |     |     |     |     |
-| 1.2       |     |     |     |  o  |     |
-| 2.1       |     |     |  o  |     |     |
-| 2.2       |     |     |     |  o  |     |
+| 1.1       |     |     |     |  o  |     |
+| 1.2       |     |     |  o  |     |     |
+| 2.1       |     |     |     |  o  |     |
+| 2.2       |     |     |     |     |  o  |
 | 3.1       |     |  o  |     |     |     |
 
 I enjoyed writing this blog because I could write what I wanted to know more about this topic and I could know now. I would say it is a good structure for this essay. If I put it directly on GitHub, it would be difficult to read and correct, so I first wrote it in Word and then copied it to GitHub. However, I should have started earlier because this one is more than just an essay we need to put this to GitHub. Once I learned how to bold, incorporate images, include references, etc., I could proceed easily.
@@ -51,10 +51,11 @@ Another student in my group provided feedback on my work as follows: <!-- move t
 
 | Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
 |-----------|:---:|:---:|:---:|:---:|:---:|
-| 1.1       |     |     |     |     |  o  |
-| 1.2       |     |     |     |  o  |     |
-| 2.1       |     |     |  o  |     |     |
+| 1.1       |     |     |     |  o  |     |
+| 1.2       |     |     |  o  |     |     |
+| 2.1       |     |     |     |  o  |     |
 | 2.2       |     |     |     |  o  |     |
-| 3.1       |     |  o  |     |     |     |
+| 3.1       |     |     |     |  o  |     |
 
-Feedback given by: <!-- add student number and date -->
+The structure is well organised because of highlight the clarity and logical flow of ideas. Also, It easier for the reader to explore your work. The work is reasonable and well written, but some points are needed to be improved to address the specific of the data.Consider providing quantifiable results or outcomes to highlight the impact of your work.However,The example which you have given and the way you have presented in knowledge and the concept is markable. Picture  The way you given the references are also well organized. The portfolio effectively balances showcasing your skills, and well done on presenting a compelling showcase of your capabilites. The content provides valuable insights into creating and optimizing a digital portfolio. Your exploration of digital identities and existential risks adds a unique perspective to the discussion. Your use of contemporary examples and references to current events keeps the content relevant and engaging.Overall, its a well-created portfolio that effectively showcases your talent. 
+Feedback given by: 2314307  2024-01-17
