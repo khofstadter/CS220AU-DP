@@ -37,7 +37,13 @@
 
 
 ## Log
-2023-12-15 w11 
+2024-01-13~17 Write a essay to Word and copy and paste to GitHub; 13~15: Focused on Part1,2
+
+2024-01-08 Finish to write Introduction  
+
+2023-12-19 Start to write an essay to Word
+
+2023-12-15 w11 Last class: discuss about progress and confirm how to submit
 
 2023-12-14 Introduction (need to find some academic articles)
 
