@@ -22,7 +22,8 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 Instructions on using this GitHub repository as a template for your assignment will be provided in class. Seek clarification if anything is unclear.
 
 ## Tasks
-1. fork this repository
+Contract an essay around my current research 
+1. Create a list of key words
 2. activate GitHub Pages to generate a website from the files
 3. familiarize yourself with Markdown language and modify the `index.md` file
 4. continuously update the Tasks and Log headings to reflect your progress
