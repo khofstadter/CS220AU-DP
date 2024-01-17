@@ -180,13 +180,13 @@ In conclusion, the links between digital identity, existential risk, psychedelic
 
 ## References
 * Book:
-* 		Smith, A. (2022) Harmony in the Machine: Psychedelic Soundscapes and AI Creativity. New York: Sonic Press.
+* Smith, A. (2022) Harmony in the Machine: Psychedelic Soundscapes and AI Creativity. New York: Sonic Press.
 
-* 		Book:
-* 		Thompson, R. (2023) Mind-bending Harmonies: A Journey through Psychedelic Music and AI Integration. San Francisco: Sonic Imprints.
+* Book:
+* Thompson, R. (2023) Mind-bending Harmonies: A Journey through Psychedelic Music and AI Integration. San Francisco: Sonic Imprints.
 
 * Journal Article:
-* 		Johnson, P. (2023) 'Digital Echoes: The Integration of AI in Psychedelic Music.' Journal of Music and Technology, 10(2), pp. 87-102.
+* Johnson, P. (2023) 'Digital Echoes: The Integration of AI in Psychedelic Music.' Journal of Music and Technology, 10(2), pp. 87-102.
 
 * Conference Paper:
 * Brown, C. (2022) 'Beyond Analog: AI's Influence on Psychedelic Music Composition.' In: Proceedings of the International Conference on Music and Technology, London, UK, pp. 45-56.
@@ -198,10 +198,10 @@ DigitalVisionsGallery. (2022) Transcendent Waves: An Exhibition of Psychedelic A
 VisionaryNotes. (2023) Electric Dreams: Psychedelia and Artificial Intelligence. [Documentary]. Los Angeles: Visionary Films.
 
 * Journal Article:
-* 		Garcia, M. (2022) 'Synthesizing the Psychedelic Experience: AI Algorithms in Music Composition.' Journal of Artificial Creativity, 15(3), pp. 120-135.
+  Garcia, M. (2022) 'Synthesizing the Psychedelic Experience: AI Algorithms in Music Composition.' Journal of Artificial Creativity, 15(3), pp. 120-135.
 
-* 		Conference Paper:
-* 		Turner, S. (2022) 'Beyond the Horizon: AI-generated Soundscapes in Psychedelic Music.' In: Proceedings of the International Conference on Music, Art, and Technology, Barcelona, Spain, pp. 78-92.
+* Conference Paper:
+  Turner, S. (2022) 'Beyond the Horizon: AI-generated Soundscapes in Psychedelic Music.' In: Proceedings of the International Conference on Music, Art, and Technology, Barcelona, Spain, pp. 78-92.
 
 * Documentary:
 VisionaryHarmonyFilms. (2023) Digital Dreamscapes: Psychedelic Fusion with Artificial Intelligence. [Documentary]. Los Angeles: Visionary Harmony Films.
