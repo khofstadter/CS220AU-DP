@@ -1,5 +1,5 @@
 # HOW Can Psychedelic music be linked to AI?
-17 november 2023
+14 January 2023
 
 How can psychedelic music be linked to AI?
 15 January 2023
