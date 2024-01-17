@@ -1,4 +1,4 @@
-# HOW Can Psychedelic music be linked to AI?
+# "Harmonizing the Psychedelic Symphony: Exploring the Nexus of Psychedelic Music, AI, Digital Identities, and Existential Risks"
 17 november 2023
 
 Key words:automation,artificial intelligence, remote work and music social media, Music and Artificial Intelligence, AI-driven Music CompositionEfficiency in Music, Production Personalized Music Experiences etc.
@@ -11,7 +11,6 @@ Acronyms and abbreviations:
 *Artificial Intelligence (AI)
 
 ## Indroduction
-Title: "Harmonizing the Psychedelic Symphony: Exploring the Nexus of Psychedelic Music, AI, Digital Identities, and Existential Risks"
 
 In the vast landscape of human creativity and technological innovation, the convergence of seemingly disparate realms often gives rise to groundbreaking ideas and novel perspectives. One such intriguing intersection lies at the crossroads of psychedelic music and artificial intelligence (AI), where the ethereal sounds of mind-altering melodies meet the intricacies of digital identities and the contemplation of existential risks. This unconventional fusion unveils a kaleidoscopic journey that transcends conventional boundaries, offering a unique lens through which to explore the intricate tapestry of our rapidly evolving digital age.
 
