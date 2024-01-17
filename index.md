@@ -5,7 +5,7 @@ How can psychedelic music be linked to AI?
 15 January 2023
 Key words:automation,artificial intelligence, remote work and music social media, Music and Artificial Intelligence, AI-driven Music CompositionEfficiency in Music, Production Personalized Music Experiences etc.
 
-![](https://github.com/2314307/CS220AU-DP/blob/main/assets/img/Create-a-photorealistic-image-visualizing-the-criticism-of-AI-in-music-composition-regarding-originality.-The-scene-should-depict-a-modern-AI-music-st.png)
+![](https://github.com/2314307/CS220AU-DP/blob/main/assets/img/645aadd22ed680cf8352ebdb_the-ai-driven-future-of-music-production-embracing-new-possibilities.jpg)
 
 Acronyms and abbreviations:
 *Digital Identity (DI)
