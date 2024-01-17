@@ -34,6 +34,7 @@ How such data is used depends on the type of business. There are **two main reas
 
 ## Digital identities
 ![image](https://github.com/2300260/CS220AU-DP/blob/main/assets/img/Digital%20identity.png)
+Photo by [iStock](https://www.istockphoto.com/search/2/image?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fja%2Fs%2F%25E5%2586%2599%25E7%259C%259F%2Fdata-privacy&utm_medium=affiliate&utm_source=unsplash&utm_term=data+privacy%3A%3A%3A&alloweduse=availableforalluses&excludenudity=true&mediatype=photography&phrase=data+privacy&sort=best)
 
 Digital identities is a representation of who we are on the internet. This includes account names, access data and other important user's specific information. As mentioned above, companies are collecting data, which they collect based on our digital identity.
 
