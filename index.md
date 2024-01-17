@@ -1,4 +1,4 @@
-# "Harmonizing the Psychedelic Symphony: Exploring the Nexus of Psychedelic Music, AI, Digital Identities, and Existential Risks"
+# Exploring the Nexus of Psychedelic Music, AI, Digital Identities, and Existential Risks
 17 november 2023
 
 Key words:automation,artificial intelligence, remote work and music social media, Music and Artificial Intelligence, AI-driven Music CompositionEfficiency in Music, Production Personalized Music Experiences etc.
