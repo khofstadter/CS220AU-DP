@@ -38,11 +38,11 @@ Using the marking rubric, I've assessed my own progress: <!-- move the symbols i
 
 | Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
 |-----------|:---:|:---:|:---:|:---:|:---:|
-| 1.1       |     |     |     |     |     |
-| 1.2       |     |     |     |  o  |     |
+| 1.1       |     |     |     |  o  |     |
+| 1.2       |     |     |     |     |  o  |
 | 2.1       |     |     |  o  |     |     |
-| 2.2       |     |     |     |  o  |     |
-| 3.1       |     |  o  |     |     |     |
+| 2.2       |     |     |  o  |     |     |
+| 3.1       |     |     |     |  o  |  o  |
 
 ## Peer-assessment
 Another student in my group provided feedback on my work as follows: <!-- move the symbols in the table below -->
