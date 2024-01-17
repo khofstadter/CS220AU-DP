@@ -56,7 +56,7 @@ As shown in the Data collection part, one of the reasons tech companies collect 
 
 
 ## Conclusion
-
+Tech companies collect our wide range of much information through a variety of methods. By providing more data to companies, users can get advertising that is suitable for each of them and can always use better websites and platforms, but this increases the risk of personal data being leaked and the risk of privacy breaches. There were also problems with the privacy policy and cookie terms and conditions for companies to get our consent to collect our data. This is a problem that companies should improve on, but users should also be aware that we are taking the risk of providing our data, rather than agreeing to it without reading it at all.
 
 
 ## References
