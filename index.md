@@ -3,7 +3,7 @@
 
 Key words:automation,artificial intelligence, remote work and music social media, Music and Artificial Intelligence, AI-driven Music CompositionEfficiency in Music, Production Personalized Music Experiences etc.
 
-![](https://231407.github.io//CS220AU-DP/assets/img/645aadd22ed680cf8352ebdb_the-ai-driven-future-of-music-production-embracing-new-possibilities.webp)
+![](https://github.com/2314307/CS220AU-DP/blob/main/assets/img/645aadd22ed680cf8352ebdb_the-ai-driven-future-of-music-production-embracing-new-possibilities.jpg)
 
 Acronyms and abbreviations:
 *Digital Identity (DI)
