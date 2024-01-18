@@ -23,24 +23,18 @@ Instructions on using this GitHub repository as a template for your assignment w
 
 ## Tasks
 Contract an essay (webpagE) around my current research question draft (Exploring the nexus of Psychedelic Music,AI,Digital identities, and Existential Risks)
-1. Create a list of key words
-2. activate GitHub Pages to generate a website from the files
-3. familiarize yourself with Markdown language and modify the `index.md` file
-4. continuously update the Tasks and Log headings to reflect your progress
-5. ... 
+1. Attribute a list of key words
+2. Explore key words in detail and aslo linked my topic with Digital Identities and Existential Risks
+3. 
+4. 
+5. Download the checklist file and submit it on faser.
 
 ## Log
-- 2023-10-11 repository amended for 2023
-- 2022-10-17 amended the repository to work with to be aligned with the focus on how the module is run in 2022 (e.g. regarding the theme)
-- 2022-10-10 based on the last year's portfolio template, I created a draft for a new template
-- 2021-10-23 demonstrating VSC on computer. testing on another computer as well. testing on mac. testing GitHub Desktop. 
-- 2021-10-19 minor grammar and logic changes. 
-- 2021-10-16 testing fork from kris-dummy account. Testing notifications in forked repos. 
-- 2021-10-11 one peer assessment instead of two needed.
-- 2021-10-07 to have an originality report from FASER, students need to submit the DI reflection as PDF. They can still add this reflection to their GitHub repositories as an additional website if they would like to. The submit.md file is changed to final-check.md. All files changed to reflect these changes. 
-- 2021-10-06 README.md refined with clearer overview. Change from submitting in PDF to submitting in .md (submit.md). 
-- 2021-10-05 submit.md refined (raw rubric sheet in Excel file and converted with https://www.convertcsv.com/csv-to-markdown.htm. All text checked with free Grammarly and ProWritingAid
-- 2021-10-03 di-reflection simplified. submit.md simplified. index.md simplified
-- 2021-10-01 assessment.md renamed to submit.md. reflection.md renamed to di-reflection.md. Links added to CS220 repo and files were fine-tuned
-- 2021-09-24 index.md, reflection.md and assessment.md added. readme.md refined
-- 2021-09-21 repo created. readme.md added and next steps in the todo heading defined
+- 2024-01-18 I completed my assignment (website work)
+- 2024-01-17 Got peer group and finished self and peer assesments.
+- 2024-01-15 Start to write an essay to words.
+- 2023-12-26 Work at home about my topic and written some points on my notebook. 
+- 2023-12-15 Last class: Discussed about my assignment.
+- 2023-12-01 I selected my topic of Phychedelic music,AI,and started worked on it.
+- 2023-11-17 Created a github account in the class.
+- 2023-11-10 I attented my first class.
