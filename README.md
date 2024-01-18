@@ -23,16 +23,16 @@ Instructions on using this GitHub repository as a template for your assignment w
 
 ## Tasks
 Contract an essay (webpagE) around my current research question draft (Exploring the nexus of Psychedelic Music,AI,Digital identities, and Existential Risks)
-1. Attribute a list of key words
-2. Explore key words in detail and aslo linked my topic with Digital Identities and Existential Risks
-3. 
-4. 
-5. Download the checklist file and submit it on faser.
+1. Researched some articles related my topic.
+3. Start writing (Title, Keywords, Picture, Introduction, Body, Linked points, Conclusion and references.
+4. Explore key words in detail and aslo linked my topic with Digital Identities and Existential Risks.
+5. Completed website, self and peer assessment, and portfolio overview task.
+6. Download the checklist file and submit it on faser.
 
 ## Log
-- 2024-01-18 I completed my assignment (website work)
+- 2024-01-18 I completed my assignment (website work,self- and peer-assessment and portfolio overview)
 - 2024-01-17 Got peer group and finished self and peer assesments.
-- 2024-01-15 Start to write an essay to words.
+- 2024-01-15 Started to write an essay.
 - 2023-12-26 Work at home about my topic and written some points on my notebook. 
 - 2023-12-15 Last class: Discussed about my assignment.
 - 2023-12-01 I selected my topic of Phychedelic music,AI,and started worked on it.
