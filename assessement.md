@@ -49,10 +49,12 @@ Another student in my group provided feedback on my work as follows: <!-- move t
 
 | Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
 |-----------|:---:|:---:|:---:|:---:|:---:|
-| 1.1       |     |     |  o  |     |     |
+| 1.1       |     |     |     |     |  o  |
 | 1.2       |     |     |     |  o  |     |
-| 2.1       |     |     |  o  |     |     |
+| 2.1       |     |     |     |  o  |     |
 | 2.2       |     |     |     |  o  |     |
-| 3.1       |     |  o  |     |     |     |
+| 3.1       |     |     |     |     |  o  |
 
-Feedback given by: <!-- add student number and date -->
+The essay which you have provied is well structured and well discrupted. Acknowledge the effort you have put into the work which you have done is markable. Your project's objectives were well-defined, making it easy to understand the goals from the outset. It's evident that you conducted comprehensive research to support the AI model. The incorporation of relevant literature and background information strengthened the foundation of your work. I appreciate the thoughtful selection and application of algorithms. Your explanation of why you chose a particular algorithm and how it contributes to the overall project was insightful. Word count of the essay is too much according to instruction provided, please limit it! The model training process was well-executed. The dataset selection, preprocessing, and model training procedures were clearly outlined, contributing to the overall transparency of your work. GOOD JOB! 
+
+Feedback given by: 2314438 18-01-2024
