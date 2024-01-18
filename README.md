@@ -22,7 +22,7 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 Instructions on using this GitHub repository as a template for your assignment will be provided in class. Seek clarification if anything is unclear.
 
 ## Tasks
-Contract an essay around my current research 
+Contract an essay (webpagE) around my current research question draft (Exploring the nexus of Psychedelic Music,AI,Digital identities, and Existential Risks)
 1. Create a list of key words
 2. activate GitHub Pages to generate a website from the files
 3. familiarize yourself with Markdown language and modify the `index.md` file
