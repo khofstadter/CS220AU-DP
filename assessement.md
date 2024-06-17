@@ -33,17 +33,6 @@ The following rubric provides a detailed breakdown of the assessment criteria fo
 |3.1 The submission's overall level of clarity. |         |              |                                                                                                                        |   |   |
 
 
-## Self-assessment
-Using the marking rubric, I've assessed my own progress: <!-- move the symbols in the table below -->
-
-| Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
-|-----------|:---:|:---:|:---:|:---:|:---:|
-| 1.1       |     |     |     |     |     |
-| 1.2       |     |     |     |  o  |     |
-| 2.1       |     |     |  o  |     |     |
-| 2.2       |     |     |     |  o  |     |
-| 3.1       |     |  o  |     |     |     |
-
 ## Peer-assessment
 Another student in my group provided feedback on my work as follows: <!-- move the symbols in the table below -->
 
@@ -56,3 +45,15 @@ Another student in my group provided feedback on my work as follows: <!-- move t
 | 3.1       |     |  o  |     |     |     |
 
 Feedback given by: <!-- add student number and date -->
+
+
+## Self-assessment
+After addressing the feedback above (from the other student), using the marking rubric below, I've assessed my own progress: <!-- move the symbols in the table below -->
+
+| Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
+|-----------|:---:|:---:|:---:|:---:|:---:|
+| 1.1       |     |     |     |     |     |
+| 1.2       |     |     |     |  o  |     |
+| 2.1       |     |     |  o  |     |     |
+| 2.2       |     |     |     |  o  |     |
+| 3.1       |     |  o  |     |     |     |
