@@ -1,6 +1,6 @@
 # CS220AU Digital Portfolio Template
 ## Overview
-The goal of this GitHub repository is to serves as a template for the [CS220AU](https://navigatingthedigitalworld.com/docs/cs220au) assignment. It demonstrates minimalistic approaches to:
+The goal of this GitHub repository is to serves as a template for the [CS220AU](https://navigatingthedigitalworld.com) assignment. It demonstrates minimalistic approaches to:
 
 - project management using this `README.md` file, organized under the Overview, Tasks, and Log headings
 - web hosting through [GitHub Pages](https://pages.github.com/)
